@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Predict Used Car Price</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Default Description">
+    <meta property="og:image" content="images/og_image.jpg"/>
+    <meta name="keywords" content="fashion, store, E-commerce">
+    <meta name="robots" content="*">
+    <link href="../static/images/favicon.png" rel="icon">
+    <link rel="icon" href="#" type="image/x-icon">
+    <link rel="shortcut icon" href="#" type="image/x-icon">
+
+
+    <!-- CSS Style -->
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet/font-awesome.css" media="all">
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet/bootstrap-select.css">
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet/revslider.css">
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet/owl.theme.css">
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet/jquery.bxslider.css">
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet/jquery.mobile-menu.css">
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet/style.css" media="all">
+    <link rel="stylesheet" type="text/css" href="../static/stylesheet/responsive.css" media="all">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700,800'
+          rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Saira+Condensed:300,400,500,600,700,800" rel="stylesheet">
+</head>
+
+<body>
+<div id="page">
+    <!--container-->
+
+    <div class="content">
+        <div class="container-fluid">
+
+            <div class="row">
+                <!-- Slider -->
+                <div class="home-slider5">
+                    <div id="thmg-slideshow" class="thmg-slideshow">
+                        <div id='rev_slider_4_wrapper' class='rev_slider_wrapper fullwidthbanner-container'>
+                            <div id='rev_slider_4' class='rev_slider fullwidthabanner'>
+                                <ul>
+                                    <li data-transition='random' data-slotamount='7' data-masterspeed='1000'
+                                        data-thumb='../static/images/slide-img1.jpg'><img
+                                            src='../static/images/slide-img1.jpg' data-bgfit='cover'
+                                            data-bgrepeat='no-repeat' alt="banner"/>
+                                        <div class="container">
+                                            <div class="content_slideshow">
+                                                <div class="row">
+                                                    <div>
+                                                        <div class="info">
+                                                            <div class='tp-caption ExtraLargeTitle sft  tp-resizeme '
+                                                                 data-endspeed='500' data-speed='500' data-start='1100'
+                                                                 data-easing='Linear.easeNone' data-splitin='none'
+                                                                 data-splitout='none' data-elementdelay='0.1'
+                                                                 data-endelementdelay='0.1'
+                                                                 style='z-index:2; white-space:nowrap;'><span>Sell your car at a Best Price</span>
+                                                            </div>
+                                                            <div class='tp-caption LargeTitle sfl  tp-resizeme '
+                                                                 data-endspeed='500' data-speed='500' data-start='1300'
+                                                                 data-easing='Linear.easeNone' data-splitin='none'
+                                                                 data-splitout='none' data-elementdelay='0.1'
+                                                                 data-endelementdelay='0.1'
+                                                                 style='z-index:3; white-space:nowrap;'><span
+                                                                    style="font-weight:normal; display:block">Most-Reliable</span>Price
+                                                            </div>
+                                                            <div class='tp-caption Title sft  tp-resizeme '
+                                                                 data-endspeed='500' data-speed='500' data-start='1450'
+                                                                 data-easing='Power2.easeInOut' data-splitin='none'
+                                                                 data-splitout='none' data-elementdelay='0.1'
+                                                                 data-endelementdelay='0.1'
+                                                                 style='z-index:4; white-space:nowrap;'>Predictor
+                                                            </div>
+                                                            <div class='tp-caption sfb  tp-resizeme '
+                                                                 data-endspeed='500' data-speed='500' data-start='1500'
+                                                                 data-easing='Linear.easeNone' data-splitin='none'
+                                                                 data-splitout='none' data-elementdelay='0.1'
+                                                                 data-endelementdelay='0.1'
+                                                                 style='z-index:4; white-space:nowrap;'><a href='#'
+                                                                                                           class="buy-btn">Predict
+                                                                Price</a></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li data-transition='random' data-slotamount='7' data-masterspeed='1000'
+                                        data-thumb='../static/images/slide-img2.jpg'><img
+                                            src='../static/images/slide-img2.jpg' data-bgfit='cover'
+                                            data-bgrepeat='no-repeat' alt="banner"/>
+                                        <div class="container">
+                                            <div class="content_slideshow">
+                                                <div class="row">
+                                                    <div>
+                                                        <div class="info">
+                                                            <div class='tp-caption ExtraLargeTitle sft  tp-resizeme '
+                                                                 data-endspeed='500' data-speed='500' data-start='1100'
+                                                                 data-easing='Linear.easeNone' data-splitin='none'
+                                                                 data-splitout='none' data-elementdelay='0.1'
+                                                                 data-endelementdelay='0.1'
+                                                                 style='z-index:2; white-space:nowrap;'><span>Sell your car at a Best Price</span>
+                                                            </div>
+                                                            <div class='tp-caption LargeTitle sfl  tp-resizeme '
+                                                                 data-endspeed='500' data-speed='500' data-start='1300'
+                                                                 data-easing='Linear.easeNone' data-splitin='none'
+                                                                 data-splitout='none' data-elementdelay='0.1'
+                                                                 data-endelementdelay='0.1'
+                                                                 style='z-index:3; white-space:nowrap;'><span
+                                                                    style="font-weight:normal; display:block">Most-Reliable</span>Price
+                                                            </div>
+                                                            <div class='tp-caption Title sft  tp-resizeme '
+                                                                 data-endspeed='500' data-speed='500' data-start='1450'
+                                                                 data-easing='Power2.easeInOut' data-splitin='none'
+                                                                 data-splitout='none' data-elementdelay='0.1'
+                                                                 data-endelementdelay='0.1'
+                                                                 style='z-index:4; white-space:nowrap;'>Predictor
+                                                            </div>
+                                                            <div class='tp-caption sfb  tp-resizeme '
+                                                                 data-endspeed='500' data-speed='500' data-start='1500'
+                                                                 data-easing='Linear.easeNone' data-splitin='none'
+                                                                 data-splitout='none' data-elementdelay='0.1'
+                                                                 data-endelementdelay='0.1'
+                                                                 style='z-index:4; white-space:nowrap;'><a href='#'
+                                                                                                           class="buy-btn">Predict
+                                                                Price</a></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="tp-bannertimer"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--Category slider Start-->
+
+        <div class="section-filter">
+            <div class="b-filter__inner bg-grey container">
+                <h2>Predict Your Car Price</h2>
+                <form class="b-filter" method="post" action="http://127.0.0.1:5000/api/" id="formoid">
+                    <div class="btn-group bootstrap-select">
+                        <select class="selectpicker" name="brand" id="brand" data-width="100%" tabindex="-98" required>
+                            <option value="">Select Brand</option>
+                            <option value="Chevrolet">Chevrolet</option>
+                            <option value="Ford">Ford</option>
+                            <option value="Haval">Haval</option>
+                            <option value="Honda">Honda</option>
+                            <option value="Hyundai">Hyundai</option>
+                            <option value="Kia">Kia</option>
+                            <option value="Mahindra">Mahindra</option>
+                            <option value="Maruti Suzuki">Maruti Suzuki</option>
+                            <option value="Mazda">Mazda</option>
+                            <option value="Mitsubishi">Mitsubishi</option>
+                            <option value="Nissan">Nissan</option>
+                            <option value="Proton">Proton</option>
+                            <option value="SsangYong">SsangYong</option>
+                            <option value="Suzuki">Suzuki</option>
+                            <option value="Tata">Tata</option>
+                            <option value="Toyota">Toyota</option>
+                        </select>
+                    </div>
+                    <div class="btn-group bootstrap-select">
+                        <select class="selectpicker" data-width="100%" tabindex="-98" name="model_year" required>
+                            <option>Model Year</option>
+                            <option value="1990">1990</option>
+                            <option value="1991">1991</option>
+                            <option value="1992">1992</option>
+                            <option value="1993">1993</option>
+                            <option value="1994">1994</option>
+                            <option value="1995">1995</option>
+                            <option value="1996">1996</option>
+                            <option value="1997">1997</option>
+                            <option value="1998">1998</option>
+                            <option value="1999">1999</option>
+                            <option value="2000">2000</option>
+                            <option value="2001">2001</option>
+                            <option value="2002">2002</option>
+                            <option value="2003">2003</option>
+                            <option value="2004">2004</option>
+                            <option value="2005">2005</option>
+                            <option value="2006">2006</option>
+                            <option value="2007">2007</option>
+                            <option value="2008">2008</option>
+                            <option value="2009">2009</option>
+                            <option value="2010">2010</option>
+                            <option value="2011">2011</option>
+                            <option value="2012">2012</option>
+                            <option value="2013">2013</option>
+                            <option value="2014">2014</option>
+                            <option value="2015">2015</option>
+                            <option value="2016">2016</option>
+                            <option value="2017">2017</option>
+                            <option value="2018">2018</option>
+                            <option value="2019">2019</option>
+                            <option value="2020">2020</option>
+                            <option value="2021">2021</option>
+                        </select>
+                    </div>
+                    <div class="btn-group bootstrap-select">
+                        <select class="selectpicker" data-width="100%"  id="body_type" tabindex="-98" name="body_type" required>
+                            <option>Body Type</option>
+                            <option value="Estate">Estate</option>
+                            <option value="Hatchback">Hatchback</option>
+                            <option value="MPV">MPV</option>
+                            <option value="Saloon">Saloon</option>
+                            <option value="SUV / 4x4">SUV / 4x4</option>
+                        </select>
+                    </div>
+                    <div class="btn-group bootstrap-select">
+                        <select class="selectpicker" data-width="100%" tabindex="-98" id="transmission" name="transmission" required>
+                            <option>Select Transmission</option>
+                            <option value="Automatic">Automatic</option>
+                            <option value="Manual">Manual</option>
+                        </select>
+                    </div>
+                    <div class="btn-group bootstrap-select">
+                        <select class="selectpicker" data-width="100%" tabindex="-98" id="fuel_type" name="fuel_type" required>
+                            <option>Fuel Type</option>
+                            <option value='OIL'>OIL</option>
+                            <option value='HYBRID'>HYBRID</option>
+                            <option value='CNG and OIL'>CNG and OIL</option>
+                            <option value='LPG and OIL'>LPG and OIL</option>
+                        </select>
+                    </div>
+
+                    <div class="btn-group bootstrap-select">
+                        <input type="number" class="form-control selectpicker2" placeholder="Enter Engine Capacity"
+                               data-width="100%" tabindex="-98" id="engine_capacity" name="engine_capacity"  required>
+                    </div>
+
+                    <div class="btn-group bootstrap-select mid">
+                        <input type="number" class="form-control selectpicker2" placeholder="Enter Millage"
+                               data-width="100%" tabindex="-98" id="kilometers_run" name="kilometers_run" required>
+                    </div>
+
+
+                    <div>
+                        <div class="b-filter__btns ">
+                            <button type="submit" class="btn btn-lg btn-primary ">Predict Price</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+
+        <!--Category silder End-->
+
+
+    </div>
+    <footer>
+        <!-- BEGIN INFORMATIVE FOOTER -->
+        <div class="footer-inner ">
+            <div class="our-features-box wow bounceInUp animated animated ">
+                <div class="container ">
+                    <ul>
+                        <li>
+                            <div class="feature-box ">
+                                <div class="icon-truck "><img src="../static/images/world-icon.png " alt="Image "></div>
+                                <div class="content ">
+                                    <h6>World's #1</h6>
+                                    <p>Largest Auto portal</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="feature-box ">
+                                <div class="icon-support "><img src="../static/images/car-sold-icon.png " alt="Image ">
+                                </div>
+                                <div class="content ">
+                                    <h6>Car Sold</h6>
+                                    <p>With Best Price</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="feature-box ">
+                                <div class="icon-money "><img src="../static/images/tag-icon.png " alt="Image "></div>
+                                <div class="content ">
+                                    <h6>Accuracy</h6>
+                                    <p>100%</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="last ">
+                            <div class="feature-box ">
+                                <div class="icon-return "><img src="../static/images/compare-icon.png " alt="Image ">
+                                </div>
+                                <div class="content ">
+                                    <h6>Sell Car</h6>
+                                    <p>At a best price</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="container ">
+                <div class="row ">
+                    <div class="col-sm-4 col-xs-12 col-lg-4 ">
+                        <div class="co-info ">
+                            <h4>Full of BUGS</h4>
+                            <address>
+                                <div><span>North South University <br>
+                Dhaka Bangladesh</span></div>
+                                <div><span> +88 01685290796</span></div>
+                                <div><span><a href="# ">amiknsu@gmail.com</a></span></div>
+                                <div><span>Feel free to knock</span></div>
+                            </address>
+                        </div>
+                    </div>
+                    <div class="col-sm-8 col-xs-12 col-lg-8 ">
+                        <div class="footer-column ">
+                            <h4>Quick Links</h4>
+                            <ul class="links ">
+                                <li class="first "><a href="http://themesground.com/blog/ ">Blog</a></li>
+                                <li><a href="https://scikit-learn.org/ ">Sklearn</a></li>
+                                <li><a href="https://laravel.com/ ">Laravel</a></li>
+                                <li><a href="https://www.python.org/ ">Python DOCS</a></li>
+                                <li><a href="https://www.php.net/ ">PHP DOCS</a></li>
+                                <li class="last "><a title="Return policy "
+                                                     href="https://en.wikipedia.org/wiki/Machine_learning ">Machine
+                                    Learning</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer-column ">
+                            <h4>Technology Used</h4>
+                            <ul class="links ">
+                                <li class="first "><a title="Your Account " href="# ">Machine Learning</a></li>
+                                <li><a href="# ">laravel</a></li>
+                                <li><a href="# ">Flusk</a></li>
+                                <li><a href="# ">Python</a></li>
+                                <li><a href="# ">PHP</a></li>
+                                <li class="last "><a href="# ">Bootstrap</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!--col-sm-12 col-xs-12 col-lg-8-->
+                    <!--col-xs-12 col-lg-4-->
+                </div>
+                <!--row-->
+
+            </div>
+
+            <!--container-->
+        </div>
+        <!--footer-inner-->
+
+        <div class="footer-top ">
+            <div class="container ">
+                <div class="row ">
+                    <div class="col-xs-12 col-sm-4 ">
+                        <div class="social ">
+                            <ul>
+                                <li class="fb ">
+                                    <a href="# "></a>
+                                </li>
+                                <li class="tw ">
+                                    <a href="# "></a>
+                                </li>
+                                <li class="googleplus ">
+                                    <a href="# "></a>
+                                </li>
+                                <li class="rss ">
+                                    <a href="# "></a>
+                                </li>
+                                <li class="pintrest ">
+                                    <a href="# "></a>
+                                </li>
+                                <li class="linkedin ">
+                                    <a href="# "></a>
+                                </li>
+                                <li class="youtube ">
+                                    <a href="# "></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 col-xs-12 coppyright "><a>copyright @Full of BUGS</a></div>
+                    <div class="col-xs-12 col-sm-4 ">
+                        <div class="payment-accept "><img src="../static/images/payment-1.png " alt=" "> <img
+                                src="../static/images/payment-2.png " alt=" "> <img
+                                src="../static/images/payment-3.png " alt=" "> <img
+                                src="../static/images/payment-4.png " alt=" "></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- BEGIN SIMPLE FOOTER -->
+    </footer>
+    <!-- End For version 1,2,3,4,6 -->
+
+</div>
+<div class="popup1" style="display: block;">
+  <div class="newsletter-sign-box">
+    <h3>Predicted Result</h3>
+     <img src="../static/images/close-icon.png" alt="close" class="x" onClick="HideMe();">
+    <div class="newsletter">
+        <h1 style="font-weight: bold;text-align: center;"><span style="color:blue;">{{prediction}}</span> BDT</h1>
+      <div class="newsletter_img"> <img alt="newsletter" src="../static/images/newsletter_img.png"></div>
+
+    </div>
+    <!--newsletter-->
+
+  </div>
+  <!--newsletter-sign-box-->
+</div>
+<!--page-->
+<div id="fade" style="display: block;"></div>
+
+<!-- JavaScript -->
+<script type="text/javascript" src="../static/js/jquery.min.js"></script>
+<script type="text/javascript" src="../static/js/bootstrap.min.js"></script>
+<script src="../static/js/bootstrap-slider.min.js"></script>
+<script src="../static/js/bootstrap-select.min.js"></script>
+<script type="text/javascript " src="../static/js/parallax.js"></script>
+<script type="text/javascript " src="../static/js/revslider.js"></script>
+<script type="text/javascript " src="../static/js/common.js"></script>
+<script type="text/javascript " src="../static/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript " src="../static/js/owl.carousel.min.js"></script>
+<script type="text/javascript " src="../static/js/jquery.mobile-menu.min.js"></script>
+<script src="../static/js/countdown.js"></script>
+<!--<script>-->
+<!--    /* attach a submit handler to the form */-->
+<!--    $("#formoid").submit(function(event) {-->
+
+<!--  /* stop form from submitting normally */-->
+<!--  event.preventDefault();-->
+
+<!--  /* get the action attribute from the <form action=""> element */-->
+<!--  var $form = $(this),-->
+<!--    url = $form.attr('action');-->
+
+<!--  /* Send the data using post with element id name and name2*/-->
+<!--  var posting = $.post(url, {-->
+<!--    brand: $('#brand').val(),-->
+<!--    model_year: $('#model_year').val()-->
+<!--    body_type: $('#body_type').val()-->
+<!--    transmission: $('#transmission').val()-->
+<!--    fuel_type: $('#fuel_type').val()-->
+<!--    engine_capacity: $('#engine_capacity').val()-->
+<!--    kilometers_run: $('#kilometers_run').val()-->
+<!--  });-->
+
+<!--  /* Alerts the results */-->
+<!--  posting.done(function(data) {-->
+<!--        jQuery('.popup1').hide();-->
+<!--        jQuery('#fade').hide();-->
+<!--  });-->
+<!--  posting.fail(function() {-->
+<!--    $('#result').text('failed');-->
+<!--  });-->
+<!--});-->
+<!--</script>-->
+<script type="text/javascript">
+    function HideMe()
+    {
+        jQuery('.popup1').hide();
+        jQuery('#fade').hide();
+    }
+</script>
+<script>
+        jQuery(document).ready(function() {
+            jQuery('#rev_slider_4').show().revolution({
+                dottedOverlay: 'none',
+                delay: 5000,
+                startwidth: 1170,
+                startheight: 650,
+
+                hideThumbs: 200,
+                thumbWidth: 200,
+                thumbHeight: 50,
+                thumbAmount: 2,
+
+                navigationType: 'thumb',
+                navigationArrows: 'solo',
+                navigationStyle: 'round',
+
+                touchenabled: 'on',
+                onHoverStop: 'on',
+
+                swipe_velocity: 0.7,
+                swipe_min_touches: 1,
+                swipe_max_touches: 1,
+                drag_block_vertical: false,
+
+                spinner: 'spinner0',
+                keyboardNavigation: 'off',
+
+                navigationHAlign: 'center',
+                navigationVAlign: 'bottom',
+                navigationHOffset: 0,
+                navigationVOffset: 20,
+
+                soloArrowLeftHalign: 'left',
+                soloArrowLeftValign: 'center',
+                soloArrowLeftHOffset: 20,
+                soloArrowLeftVOffset: 0,
+
+                soloArrowRightHalign: 'right',
+                soloArrowRightValign: 'center',
+                soloArrowRightHOffset: 20,
+                soloArrowRightVOffset: 0,
+
+                shadow: 0,
+                fullWidth: 'on',
+                fullScreen: 'off',
+
+                stopLoop: 'off',
+                stopAfterLoops: -1,
+                stopAtSlide: -1,
+
+                shuffle: 'off',
+
+                autoHeight: 'off',
+                forceFullWidth: 'on',
+                fullScreenAlignForce: 'off',
+                minFullScreenHeight: 0,
+                hideNavDelayOnMobile: 1500,
+
+                hideThumbsOnMobile: 'off',
+                hideBulletsOnMobile: 'off',
+                hideArrowsOnMobile: 'off',
+                hideThumbsUnderResolution: 0,
+
+                hideSliderAtLimit: 0,
+                hideCaptionAtLimit: 0,
+                hideAllCaptionAtLilmit: 0,
+                startWithSlide: 0,
+                fullScreenOffsetContainer: ''
+            });
+        });
+
+
+
+
+</script>
+<script type="text/javascript ">
+</script>
+</body>
+
+</html>
