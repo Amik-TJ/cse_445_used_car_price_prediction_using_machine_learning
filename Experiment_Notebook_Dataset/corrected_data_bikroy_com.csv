@@ -1,0 +1,1210 @@
+﻿car_name,brand,car_model,model_year,transmission,body_type,fuel_type,engine_capacity,kilometers_run,price
+Toyota Fielder 2011,Toyota,Fielder,2016,Automatic,Estate,CNG,1500,45852,1200000
+Toyota Noah 2005,Toyota,Noah,2010,Automatic,Hatchback,CNG,1998,219630,1200000
+Toyota LiteAce 2001,Toyota,LiteAce,2001,Manual,null,CNG,1800,102000,165000
+Maruti Suzuki Vitara Brezza 1994,Maruti Suzuki,Vitara Brezza,1994,Manual,null,CNG,1600,113000,230000
+Toyota Starlet good 1992,Toyota,Starlet,1992,Automatic,Saloon,CNG,1300,15000,330000
+Toyota Carina 1991,Toyota,Carina,1998,Automatic,Saloon,CNG,1500,60720,200000
+Toyota Corolla 2004,Toyota,Corolla,2009,Automatic,Saloon,CNG,1500,70000,950000
+Mitsubishi Pajero 1998,Mitsubishi,Pajero,2000,Manual,SUV / 4x4,CNG,2350,750000,960000
+Toyota Axio HYBRID 2016,Toyota,Axio,2016,Automatic,Saloon,"CNG, Hybrid",1500,96000,1830000
+Toyota Hundred St. Wagon 1996,Toyota,Other Model,1996,Automatic,Estate,"CNG, Octane",1331,120000,350000
+Toyota Fielder G-EDITION 2001,Toyota,Fielder,2001,Automatic,Estate,"CNG, Octane",1500,75000,799000
+Toyota Fielder fresh G Edition 2001,Toyota,Fielder,2001,Automatic,Estate,"CNG, Octane",1500,79250,785000
+Toyota Succeed ULX 2002,Toyota,Succeed,2002,Automatic,Estate,"CNG, Octane",1500,75000,599000
+Toyota Probox GL 2003,Toyota,Probox,2003,Automatic,Estate,"CNG, Octane",1300,84000,570000
+Toyota Probox super fresh 2003,Toyota,Probox,2003,Automatic,Estate,"CNG, Octane",1500,68425,675000
+Toyota Probox Dx 2003,Toyota,Probox,2003,Automatic,Estate,"CNG, Octane",1500,85000,625000
+Toyota Succeed WHITE-ULX-PKG 2003,Toyota,Succeed,2003,Automatic,Estate,"CNG, Octane",1500,74500,599000
+Toyota Fielder -X 2004,Toyota,Fielder,2004,Automatic,Estate,"CNG, Octane",1500,75050,955000
+Toyota Fielder 40 UNNIVERSARY 2004,Toyota,Fielder,2004,Automatic,Estate,"CNG, Octane",1500,98112,935000
+Toyota Fielder super fresh 2004,Toyota,Fielder,2004,Automatic,Estate,"CNG, Octane",1500,68465,985000
+Toyota Fielder ৪এর নিউ সেপ 2004,Toyota,Fielder,2004,Automatic,Estate,"CNG, Octane",1500,65000,1050000
+Toyota Fielder package X 2004,Toyota,Fielder,2004,Automatic,Estate,"CNG, Octane",1500,65000,1050000
+Toyota Probox DX 2004,Toyota,Probox,2004,Automatic,Estate,"CNG, Octane",1300,65000,570000
+Toyota Probox gl 2004,Toyota,Probox,2004,Automatic,Estate,"CNG, Octane",1500,90000,530000
+Toyota Spacio fun cargo HID G 2004,Toyota,Spacio,2004,Automatic,Estate,"CNG, Octane",1500,62300,668000
+Toyota Succeed super fresh 2004,Toyota,Succeed,2004,Automatic,Estate,"CNG, Octane",1500,54000,655000
+Toyota Wish G LTD 7 SEAT 2004,Toyota,Wish,2004,Automatic,Estate,"CNG, Octane",1800,88611,1085000
+Toyota Fielder X 2005,Toyota,Fielder,2005,Automatic,Estate,"CNG, Octane",1500,59700,1030000
+Toyota Fielder x 33 serial 2005,Toyota,Fielder,2005,Automatic,Estate,"CNG, Octane",1500,62000,990000
+Toyota Fielder G Edition 2005,Toyota,Fielder,2005,Automatic,Estate,"CNG, Octane",1500,185000,910000
+Toyota Succeed UL 2005,Toyota,Succeed,2005,Automatic,Estate,"CNG, Octane",1500,72000,780000
+Toyota Fielder X 2006,Toyota,Fielder,2006,Automatic,Estate,"CNG, Octane",1500,55000,1050000
+Toyota Fielder X Limited 2006,Toyota,Fielder,2006,Automatic,Estate,"CNG, Octane",1500,73000,1025000
+Toyota Fielder X Limited 2006,Toyota,Fielder,2006,Automatic,Estate,"CNG, Octane",1500,75400,1020000
+Toyota Probox 2003,Toyota,Probox,2007,Automatic,Estate,"CNG, Octane",1500,18000,560000
+Toyota Fielder x 2009,Toyota,Fielder,2009,Automatic,Estate,"CNG, Octane",1500,70000,1150000
+Toyota Probox 2005,Toyota,Probox,2009,Automatic,Estate,"CNG, Octane",1500,178000,670000
+Toyota Fielder G PACKAGE 2010,Toyota,Fielder,2010,Automatic,Estate,"CNG, Octane",1500,55000,1240000
+Toyota Probox Dx 2010,Toyota,Probox,2010,Automatic,Estate,"CNG, Octane",1500,71000,850000
+Toyota Probox GL 2010,Toyota,Probox,2010,Automatic,Estate,"CNG, Octane",1500,72000,850000
+Toyota Axio fielder G packeg 2011,Toyota,Axio,2011,Automatic,Estate,"CNG, Octane",1500,56000,1160000
+Toyota Probox GL 2011,Toyota,Probox,2011,Automatic,Estate,"CNG, Octane",1500,75320,890000
+Toyota Fielder First party 2012,Toyota,Fielder,2012,Automatic,Estate,"CNG, Octane",1500,82000,1270000
+Toyota Probox GL 2012,Toyota,Probox,2012,Automatic,Estate,"CNG, Octane",1500,42000,890000
+Toyota Axio Fielder G 2013,Toyota,Axio,2013,Automatic,Estate,"CNG, Octane",1500,47900,1485000
+Toyota Raum 2009,Toyota,Raum,2015,Automatic,Estate,"CNG, Octane",1500,75000,1040000
+Toyota Starlet white 1995,Toyota,Starlet,1995,Automatic,Hatchback,"CNG, Octane",1500,96000,280000
+Toyota Starlet Soleil ep82 1995,Toyota,Starlet Soleil,1995,Automatic,Hatchback,"CNG, Octane",1331,125855,345000
+Toyota duet 1999,Toyota,Other Model,1999,Automatic,Hatchback,"CNG, Octane",1000,89000,299000
+Toyota Corolla wagon 2001,Toyota,Corolla,2001,Automatic,Hatchback,"CNG, Octane",1500,89000,390000
+Toyota Spacio Sunroof & Moonroof 2001,Toyota,Spacio,2001,Automatic,Hatchback,"CNG, Octane",1500,65236,925000
+Honda CR-V Hard Jeep Sunroof 2002,Honda,CR-V,2002,Automatic,Hatchback,"CNG, Octane",2000,82000,925000
+Suzuki Alto ZEN 2003,Suzuki,Alto,2003,Manual,Hatchback,"CNG, Octane",1000,200,225000
+Toyota ist G Edition 2003,Toyota,ist,2003,Automatic,Hatchback,"CNG, Octane",1500,63256,885000
+Toyota Fielder very nice condition 2004,Toyota,Fielder,2004,Automatic,Hatchback,"CNG, Octane",150,63000,990000
+Toyota Probox very nice condition 2004,Toyota,Probox,2004,Automatic,Hatchback,"CNG, Octane",1500,75000,595000
+Toyota Probox DX 2004,Toyota,Probox,2004,Automatic,Hatchback,"CNG, Octane",1500,55000,635000
+Toyota Raum G PKG 2004,Toyota,Raum,2004,Automatic,Hatchback,"CNG, Octane",1500,57580,890000
+Toyota ist 2004,Toyota,ist,2005,Automatic,Hatchback,"CNG, Octane",1300,73000,700000
+Toyota Succeed All Auto 1500cc 2005,Toyota,Succeed,2005,Automatic,Hatchback,"CNG, Octane",1500,64512,680000
+Toyota Rush Hard Jeep 2006,Toyota,Rush,2006,Automatic,Hatchback,"CNG, Octane",1500,79000,1035000
+Toyota Axio X Fielder 2009,Toyota,Axio,2009,Automatic,Hatchback,"CNG, Octane",1500,73000,1230000
+Toyota Probox 2005,Toyota,Probox,2010,Automatic,Hatchback,"CNG, Octane",1300,87000,620000
+Toyota Fielder X Bank Loan Car 2011,Toyota,Fielder,2011,Automatic,Hatchback,"CNG, Octane",1500,65000,970000
+Toyota LiteAce School bus 9 seats 1989,Toyota,LiteAce,1989,Manual,MPV,"CNG, Octane",1300,274000,125000
+Toyota TownAce Navan 1995,Toyota,TownAce,1995,Manual,MPV,"CNG, Octane",1500,90000,320000
+Toyota Noah lucida dual ac g 1997,Toyota,Noah,1997,Automatic,MPV,"CNG, Octane",2000,79800,535000
+Toyota Hiace Super GL 1998,Toyota,Hiace,1998,Manual,MPV,"CNG, Octane",2000,78643,520000
+Toyota Noah Regius 1998,Toyota,Noah,1998,Automatic,MPV,"CNG, Octane",2500,100000,850000
+Toyota Noah package SR40 1998,Toyota,Noah,1998,Automatic,MPV,"CNG, Octane",2000,86000,980000
+Toyota Noah Super Extra Limo 2000,Toyota,Noah,2000,Automatic,MPV,"CNG, Octane",2000,65800,800000
+Toyota Noah S 2002,Toyota,Noah,2002,Automatic,MPV,"CNG, Octane",2000,90000,965000
+Toyota Noah X (All auto) 2002,Toyota,Noah,2002,Automatic,MPV,"CNG, Octane",2000,142088,1080000
+Toyota Noah G- Edition 2002,Toyota,Noah,2002,Automatic,MPV,"CNG, Octane",2000,78123,1120000
+Toyota Hiace dx 2003,Toyota,Hiace,2003,Automatic,MPV,"CNG, Octane",2000,198522,460000
+Toyota Hiace dx 2003,Toyota,Hiace,2003,Automatic,MPV,"CNG, Octane",2000,298521,320000
+Toyota Hiace GL Vvti Low Floor 2003,Toyota,Hiace,2003,Automatic,MPV,"CNG, Octane",2000,274000,510000
+Toyota Noah -X 2003,Toyota,Noah,2003,Automatic,MPV,"CNG, Octane",2000,81000,1060000
+Toyota Noah X 2003,Toyota,Noah,2003,Automatic,MPV,"CNG, Octane",2000,81000,1050000
+Toyota Noah GL 2003,Toyota,Noah,2003,Automatic,MPV,"CNG, Octane",1781,76000,830000
+Toyota Noah X 2003,Toyota,Noah,2003,Automatic,MPV,"CNG, Octane",2000,116000,965000
+Toyota Noah GL 2003,Toyota,Noah,2003,Automatic,MPV,"CNG, Octane",1800,65000,950000
+Toyota Noah Strander Roof 2003,Toyota,Noah,2003,Automatic,MPV,"CNG, Octane",1800,65000,920000
+Toyota Hiace HAICE GL 2004,Toyota,Hiace,2004,Automatic,MPV,"CNG, Octane",1996,121000,1190000
+Toyota Hiace Super GL 2004,Toyota,Hiace,2004,Automatic,MPV,"CNG, Octane",2000,4283,695000
+Toyota Noah KR 42 GL 2004,Toyota,Noah,2004,Automatic,MPV,"CNG, Octane",1800,112000,865000
+Toyota Noah GL 2004,Toyota,Noah,2004,Automatic,MPV,"CNG, Octane",1800,95000,950000
+Toyota Noah sun roof 2004,Toyota,Noah,2004,Automatic,MPV,"CNG, Octane",1800,81644,1035000
+Toyota Probox succeed 2004,Toyota,Other Model,2004,Automatic,MPV,"CNG, Octane",1500,55000,650000
+Toyota Sienta 7 SEAT 2004,Toyota,Sienta,2004,Automatic,MPV,"CNG, Octane",1500,73000,790000
+Toyota Hiace Super GL 2005,Toyota,Hiace,2005,Automatic,MPV,"CNG, Octane",1990,89000,1490000
+Toyota Hiace Central AC 2005,Toyota,Hiace,2005,Automatic,MPV,"CNG, Octane",2000,96000,1195000
+Toyota Hiace Gl 2005,Toyota,Hiace,2005,Automatic,MPV,"CNG, Octane",2000,174596,1355000
+Mitsubishi l300 WHITE 2005,Mitsubishi,l300,2005,Manual,MPV,"CNG, Octane",2000,85100,475000
+Toyota Noah X 2005,Toyota,Noah,2005,Automatic,MPV,"CNG, Octane",2000,94000,1090000
+Toyota Noah g edition 2005,Toyota,Noah,2005,Automatic,MPV,"CNG, Octane",2000,52345,1330000
+Toyota Noah KR42 GL Stander Roof 2005,Toyota,Noah,2005,Automatic,MPV,"CNG, Octane",1800,85000,1035000
+Toyota Noah X (All Auto) 2005,Toyota,Noah,2005,Automatic,MPV,"CNG, Octane",2000,152368,1300000
+Toyota Noah X 2005,Toyota,Noah,2005,Automatic,MPV,"CNG, Octane",2000,38000,1280000
+Toyota Noah X 2005,Toyota,Noah,2005,Automatic,MPV,"CNG, Octane",2000,68700,1290000
+Toyota Noah X 2005,Toyota,Noah,2005,Automatic,MPV,"CNG, Octane",2000,69800,1295000
+Toyota Noah X 2005,Toyota,Noah,2005,Automatic,MPV,"CNG, Octane",2000,38125,1280000
+Toyota Noah DX KR 42 Low Floor 2005,Toyota,Noah,2005,Automatic,MPV,"CNG, Octane",1800,68000,860000
+Toyota x-Noah 2005,Toyota,Other Model,2005,Automatic,MPV,"CNG, Octane",2000,55000,1220000
+Toyota Noah GL 2006,Toyota,Noah,2006,Automatic,MPV,"CNG, Octane",1800,70000,1050000
+Toyota Noah kr 42 2006,Toyota,Noah,2006,Automatic,MPV,"CNG, Octane",1800,53423,1180000
+Toyota Noah KR42 2006,Toyota,Noah,2006,Automatic,MPV,"CNG, Octane",1800,77000,900000
+Toyota Noah KR42 2006,Toyota,Noah,2006,Automatic,MPV,"CNG, Octane",1800,127000,1080000
+Toyota Noah KR42 5 Door GL 2006,Toyota,Noah,2006,Automatic,MPV,"CNG, Octane",1800,81000,1135000
+Toyota Noah DX 2006,Toyota,Noah,2006,Automatic,MPV,"CNG, Octane",1800,85000,1325000
+Toyota Noah NOHA KR 42 2006,Toyota,Noah,2006,Automatic,MPV,"CNG, Octane",1800,68580,1190000
+Mazda MPV 2005,Mazda,MPV,2007,Automatic,MPV,"CNG, Octane",2000,50000,950000
+Toyota Noah x 2007,Toyota,Noah,2007,Automatic,MPV,"CNG, Octane",2000,85000,1395000
+Toyota Hiace GL 5 Door 2008,Toyota,Hiace,2008,Automatic,MPV,"CNG, Octane",2000,85000,1570000
+Toyota Noah TOWN ACE GL SILVER 2008,Toyota,Noah,2008,Automatic,MPV,"CNG, Octane",1500,75500,645000
+Toyota Noah x si new shape red 2008,Toyota,Noah,2008,Automatic,MPV,"CNG, Octane",1998,63200,1598000
+Toyota Noah X Smart 2008,Toyota,Noah,2008,Automatic,MPV,"CNG, Octane",2000,75000,1660000
+Toyota TownAce GL 2008,Toyota,TownAce,2008,Automatic,MPV,"CNG, Octane",1500,71000,645000
+Toyota Dyna pikup 2009,Toyota,Dyna,2009,Automatic,MPV,"CNG, Octane",1500,86764,1220000
+Toyota Hiace New Engine 2009,Toyota,Hiace,2009,Automatic,MPV,"CNG, Octane",1998,56000,1800000
+Toyota Hiace 2004,Toyota,Hiace,2009,Automatic,MPV,"CNG, Octane",1998,283500,850000
+Toyota Noah X 2009,Toyota,Noah,2009,Automatic,MPV,"CNG, Octane",2000,76585,1765000
+Toyota TownAce Noah 2009,Toyota,TownAce,2009,Automatic,MPV,"CNG, Octane",1500,89000,720000
+Toyota Avanza super Fresh-G 2010,Toyota,Avanza,2010,Automatic,MPV,"CNG, Octane",1500,68452,1285000
+Toyota Hiace Super GL 2010,Toyota,Hiace,2010,Automatic,MPV,"CNG, Octane",2000,72000,1795000
+Toyota Hiace 2005,Toyota,Hiace,2010,Automatic,MPV,"CNG, Octane",2000,69000,1195000
+Nissan Urvan Dx (১৫ সিট) 2010,Nissan,Urvan,2010,Manual,MPV,"CNG, Octane",2400,84652,1030000
+Toyota Hiace Super GL 2011,Toyota,Hiace,2011,Automatic,MPV,"CNG, Octane",2000,79831,2135000
+Toyota Hiace Black Color 2011,Toyota,Hiace,2011,Automatic,MPV,"CNG, Octane",1500,64000,2150000
+Toyota Hiace সুপার জিয়েল 2011,Toyota,Hiace,2011,Automatic,MPV,"CNG, Octane",2000,64000,2150000
+Toyota LiteAce lite ace 2011,Toyota,LiteAce,2011,Automatic,MPV,"CNG, Octane",1500,95000,440000
+Toyota Noah X G Edition 2011,Toyota,Noah,2011,Automatic,MPV,"CNG, Octane",2000,56230,2045000
+Toyota Noah X 2011,Toyota,Noah,2011,Automatic,MPV,"CNG, Octane",2000,94585,1965000
+Toyota Noah X SMART PKG. 2011,Toyota,Noah,2011,Automatic,MPV,"CNG, Octane",2000,73388,2065000
+Toyota Hiace GL duelac loan 2012,Toyota,Hiace,2012,Automatic,MPV,"CNG, Octane",2000,75000,1320000
+Toyota LiteAce NOAH -GL 2012,Toyota,LiteAce,2012,Automatic,MPV,"CNG, Octane",1500,56000,850000
+Toyota Noah NOHA SI G PKG 2012,Toyota,Noah,2012,Automatic,MPV,"CNG, Octane",2000,65480,2290000
+Toyota Hiace Super GL 2013,Toyota,Hiace,2013,Automatic,MPV,"CNG, Octane",2000,55000,2420000
+Toyota Hiace Ambulance Bank loan 2013,Toyota,Hiace,2013,Automatic,MPV,"CNG, Octane",2000,65000,900000
+Toyota Hiace Super GLকিস্তি আছে12 2013,Toyota,Hiace,2013,Automatic,MPV,"CNG, Octane",2000,68000,2050000
+Toyota Noah X HID LTD KIK 2013,Toyota,Noah,2013,Automatic,MPV,"CNG, Octane",1996,62500,2265000
+Toyota Hiace GL 2014,Toyota,Hiace,2014,Automatic,MPV,"CNG, Octane",2000,48990,2295000
+Toyota Hiace Super gl 2014,Toyota,Hiace,2014,Automatic,MPV,"CNG, Octane",2000,65199,2620000
+Toyota Hiace Super GL Push Start 2014,Toyota,Hiace,2014,Automatic,MPV,"CNG, Octane",2000,65000,2700000
+Toyota Corolla 2004,Toyota,Corolla,2004,Automatic,null,"CNG, Octane",1500,54000,960000
+Toyota Noah 2007,Toyota,Noah,2007,Automatic,null,"CNG, Octane",2000,150000,1750000
+Toyota Cressida 1983,Toyota,Other Model,1983,Manual,Saloon,"CNG, Octane",2000,122000,260000
+Toyota Carina Mira Road 1990,Toyota,Carina,1990,Automatic,Saloon,"CNG, Octane",1600,298521,180000
+Toyota Corolla ৯০ 1990,Toyota,Corolla,1990,Automatic,Saloon,"CNG, Octane",1331,285214,290000
+Toyota Corolla 90sprinter 1990,Toyota,Corolla,1990,Automatic,Saloon,"CNG, Octane",1300,120000,140000
+Toyota Corolla 90. 1990,Toyota,Corolla,1990,Automatic,Saloon,"CNG, Octane",1331,99000,260000
+Toyota Corolla EE 90 1500cc 1990,Toyota,Corolla,1990,Manual,Saloon,"CNG, Octane",1500,274000,160000
+Toyota Corolla 1989,Toyota,Corolla,1990,Manual,Saloon,"CNG, Octane",1300,280000,240000
+Toyota Carina Myroad 1991,Toyota,Carina,1991,Automatic,Saloon,"CNG, Octane",1500,125000,250000
+Toyota Carina my road 1991,Toyota,Carina,1991,Automatic,Saloon,"CNG, Octane",1500,100000,135000
+Toyota Carina DX 1991,Toyota,Carina,1991,Automatic,Saloon,"CNG, Octane",1500,99564,260000
+Toyota Corolla 100 Lx limited 1991,Toyota,Corolla,1991,Automatic,Saloon,"CNG, Octane",1500,135000,365000
+Toyota Sprinter EE 90 1991,Toyota,Sprinter,1991,Manual,Saloon,"CNG, Octane",1300,134000,160000
+Toyota Carina Myroad 1992,Toyota,Carina,1992,Automatic,Saloon,"CNG, Octane",1500,69000,250000
+Toyota Corolla Ae 100 1992,Toyota,Corolla,1992,Automatic,Saloon,"CNG, Octane",1490,88000,430000
+Toyota Corolla Se Limited All Auto 1992,Toyota,Corolla,1992,Automatic,Saloon,"CNG, Octane",1500,293000,360000
+Toyota Mark II All Auto 1992,Toyota,Mark II,1992,Automatic,Saloon,"CNG, Octane",2000,114000,155000
+Toyota Sprinter a100 1992,Toyota,Sprinter,1992,Automatic,Saloon,"CNG, Octane",1331,198521,265000
+Toyota Sprinter 100 1992,Toyota,Sprinter,1992,Automatic,Saloon,"CNG, Octane",1331,95000,280000
+Toyota Carina ed 1993,Toyota,Carina,1993,Automatic,Saloon,"CNG, Octane",1900,120000,230000
+Toyota Corolla AE110 1993,Toyota,Corolla,1993,Automatic,Saloon,"CNG, Octane",1500,195000,495000
+Toyota Corsa G 1993,Toyota,Corsa,1993,Automatic,Saloon,"CNG, Octane",1331,149967,395000
+Toyota AC Limited 1993,Toyota,Other Model,1993,Automatic,Saloon,"CNG, Octane",1500,95000,330000
+Toyota Carina SX 1994,Toyota,Carina,1994,Automatic,Saloon,"CNG, Octane",1500,91000,465000
+Toyota Corona option auto 1994,Toyota,Corona,1994,Automatic,Saloon,"CNG, Octane",1500,95000,395000
+Toyota Carina Sx documents update 1995,Toyota,Carina,1995,Automatic,Saloon,"CNG, Octane",1500,80000,364000
+Toyota Corolla 110 1995,Toyota,Corolla,1995,Automatic,Saloon,"CNG, Octane",1331,150000,380000
+Toyota Corolla AE-100 LX Limited 1995,Toyota,Corolla,1995,Automatic,Saloon,"CNG, Octane",1500,85000,430000
+Toyota Corolla 1990,Toyota,Corolla,1995,Manual,Saloon,"CNG, Octane",1500,134000,270000
+Toyota Corsa S 1995,Toyota,Corsa,1995,Automatic,Saloon,"CNG, Octane",1331,120000,330000
+Toyota Corsa ax 1995,Toyota,Corsa,1995,Automatic,Saloon,"CNG, Octane",1331,150000,320000
+Toyota Vista 1995,Toyota,Other Model,1995,Automatic,Saloon,"CNG, Octane",1830,70000,400000
+Toyota Corolla Hundred 111 1996,Toyota,Corolla,1996,Automatic,Saloon,"CNG, Octane",1331,40000,365000
+Toyota Corona PREMIO RED 1996,Toyota,Corona,1996,Automatic,Saloon,"CNG, Octane",1600,78000,499000
+Toyota Corona Premio 1996,Toyota,Corona,1996,Automatic,Saloon,"CNG, Octane",1586,86025,495000
+Toyota Carina T.I-SUPER FRESH 1997,Toyota,Carina,1997,Automatic,Saloon,"CNG, Octane",1500,78000,635000
+Toyota Corolla 111 1997,Toyota,Corolla,1997,Automatic,Saloon,"CNG, Octane",1331,96000,420000
+Toyota Corolla 111 SE 1997,Toyota,Corolla,1997,Automatic,Saloon,"CNG, Octane",1331,75400,499000
+Toyota Corolla 110 XE Saloon 1997,Toyota,Corolla,1997,Automatic,Saloon,"CNG, Octane",1500,117328,550000
+Toyota Corolla XE-Saloon 1997,Toyota,Corolla,1997,Automatic,Saloon,"CNG, Octane",1331,68452,555000
+Toyota Corolla AE 110 XE SALOON 1997,Toyota,Corolla,1997,Automatic,Saloon,"CNG, Octane",1500,79000,545000
+Toyota Corolla 110-SE vintage 1997,Toyota,Corolla,1997,Automatic,Saloon,"CNG, Octane",1500,69000,550000
+Toyota Corolla 2002 1997,Toyota,Corolla,1997,Automatic,Saloon,"CNG, Octane",1500,280000,450000
+Toyota Corolla Color Gery 1997,Toyota,Corolla,1997,Automatic,Saloon,"CNG, Octane",1500,65000,650000
+Toyota Corolla Octane&CNG 110 1997,Toyota,Corolla,1997,Automatic,Saloon,"CNG, Octane",1500,56000,650000
+Toyota Corolla SE Saloon 110 1997,Toyota,Corolla,1997,Automatic,Saloon,"CNG, Octane",1500,850000,575000
+Toyota Corona primio 1997,Toyota,Corona,1997,Automatic,Saloon,"CNG, Octane",1580,95000,420000
+Toyota Corona Premio 1997,Toyota,Corona,1997,Automatic,Saloon,"CNG, Octane",1600,95000,490000
+Toyota Carina TI 1998,Toyota,Carina,1998,Automatic,Saloon,"CNG, Octane",1500,70000,650000
+Toyota Corolla 110 1998,Toyota,Corolla,1998,Automatic,Saloon,"CNG, Octane",1500,125885,570000
+Toyota Corolla 1998,Toyota,Corolla,1998,Automatic,Saloon,"CNG, Octane",1331,50000,540000
+Toyota Carina 1994,Toyota,Carina,1999,Automatic,Saloon,"CNG, Octane",1500,136000,395000
+Toyota Corolla option auto 1999,Toyota,Corolla,1999,Automatic,Saloon,"CNG, Octane",1500,96000,565000
+Toyota Corolla 110 XE SELON G 1999,Toyota,Corolla,1999,Automatic,Saloon,"CNG, Octane",1331,57000,385000
+Toyota Corolla xe salon-1999 1999,Toyota,Corolla,1999,Automatic,Saloon,"CNG, Octane",1331,87965,485000
+Toyota Corolla XE-Saloon 1999,Toyota,Corolla,1999,Automatic,Saloon,"CNG, Octane",1500,72458,635000
+Toyota Corolla Se Salon 2000,Toyota,Corolla,2000,Automatic,Saloon,"CNG, Octane",1500,74500,595000
+Toyota Corolla XE- Saloon 2000,Toyota,Corolla,2000,Automatic,Saloon,"CNG, Octane",1500,75000,625000
+Toyota Corolla white 2000,Toyota,Corolla,2000,Automatic,Saloon,"CNG, Octane",1600,152000,580000
+Toyota Corolla 110 2000,Toyota,Corolla,2000,Automatic,Saloon,"CNG, Octane",1500,95000,675000
+Toyota Corolla 110 L-SELECTION 2000,Toyota,Corolla,2000,Automatic,Saloon,"CNG, Octane",1500,82500,700000
+Toyota Corona premio 2000,Toyota,Corona,2000,Automatic,Saloon,"CNG, Octane",1500,75000,730000
+Toyota Sprinter nice conditions 2000,Toyota,Sprinter,2000,Automatic,Saloon,"CNG, Octane",1331,75000,650000
+Toyota Sprinter -Vintage 2000,Toyota,Sprinter,2000,Automatic,Saloon,"CNG, Octane",1331,75000,650000
+Toyota Vista 1994,Toyota,Vista,2000,Automatic,Saloon,"CNG, Octane",1800,198000,485000
+Toyota Corolla 100 Wagon 2001,Toyota,Corolla,2001,Automatic,Saloon,"CNG, Octane",1331,97846,350000
+Toyota Corona G 2001,Toyota,Corona,2001,Automatic,Saloon,"CNG, Octane",1600,95000,510000
+Toyota Corsa 1996,Toyota,Corsa,2001,Manual,Saloon,"CNG, Octane",1331,82000,350000
+Toyota Allion A15 2002,Toyota,Allion,2002,Automatic,Saloon,"CNG, Octane",1500,115221,950000
+Toyota Corolla x 2002,Toyota,Corolla,2002,Automatic,Saloon,"CNG, Octane",1500,90000,780000
+Toyota Corolla G 2002,Toyota,Corolla,2002,Automatic,Saloon,"CNG, Octane",1500,85749,925000
+Toyota Corolla x 2002,Toyota,Corolla,2002,Automatic,Saloon,"CNG, Octane",1500,65000,850000
+Toyota Corolla G 2002,Toyota,Corolla,2002,Automatic,Saloon,"CNG, Octane",1500,72000,890000
+Toyota Premio F 2002,Toyota,Premio,2002,Automatic,Saloon,"CNG, Octane",1500,68532,970000
+Toyota Premio FL Limited 2002,Toyota,Premio,2002,Automatic,Saloon,"CNG, Octane",1500,63000,1130000
+Toyota Premio F 2002,Toyota,Premio,2002,Automatic,Saloon,"CNG, Octane",1500,218609,1200000
+Toyota Allion a15 2003,Toyota,Allion,2003,Automatic,Saloon,"CNG, Octane",1500,56745,1190000
+Toyota Allion g plus red wine 2003,Toyota,Allion,2003,Automatic,Saloon,"CNG, Octane",1500,63200,995000
+Toyota Allion A15 2003,Toyota,Allion,2003,Automatic,Saloon,"CNG, Octane",1500,69500,1045000
+Toyota Allion Super fresh-A15 2003,Toyota,Allion,2003,Automatic,Saloon,"CNG, Octane",1500,68448,1085000
+Toyota Corolla 100 WAGON 2003,Toyota,Corolla,2003,Automatic,Saloon,"CNG, Octane",1500,78500,465000
+Toyota Corolla X 2003,Toyota,Corolla,2003,Automatic,Saloon,"CNG, Octane",1500,65732,927000
+Toyota Corolla G 2003,Toyota,Corolla,2003,Automatic,Saloon,"CNG, Octane",1500,104500,900000
+Toyota Corolla x white 2003,Toyota,Corolla,2003,Automatic,Saloon,"CNG, Octane",1500,92000,840000
+Toyota Crown hi great super delax 2003,Toyota,Crown,2003,Automatic,Saloon,"CNG, Octane",1984,62300,1045000
+Mitsubishi Lancer GLX 2003,Mitsubishi,Lancer,2003,Automatic,Saloon,"CNG, Octane",1300,57000,620000
+Toyota Premio option auto 2003,Toyota,Premio,2003,Automatic,Saloon,"CNG, Octane",1500,82000,1110000
+Toyota Probox all option auto 2003,Toyota,Probox,2003,Automatic,Saloon,"CNG, Octane",1500,96000,625000
+Toyota X Assista সাদা 2003,Toyota,X Assista,2003,Automatic,Saloon,"CNG, Octane",1331,67000,765000
+Toyota Allion white 2004,Toyota,Allion,2004,Automatic,Saloon,"CNG, Octane",1500,76000,1080000
+Toyota Allion A15-SILVER 2004,Toyota,Allion,2004,Automatic,Saloon,"CNG, Octane",1500,75000,1095000
+Toyota Allion g 2004,Toyota,Allion,2004,Automatic,Saloon,"CNG, Octane",1500,85000,995000
+Toyota Allion Octane&CNG 2004,Toyota,Allion,2004,Automatic,Saloon,"CNG, Octane",1500,65000,1195000
+Toyota Allion package G 2004,Toyota,Allion,2004,Automatic,Saloon,"CNG, Octane",1500,65000,1195000
+Toyota Corolla Sunroof Edition 2004,Toyota,Corolla,2004,Automatic,Saloon,"CNG, Octane",1500,85000,1095000
+Toyota Corolla X New Shape 2004,Toyota,Corolla,2004,Automatic,Saloon,"CNG, Octane",1500,69000,985000
+Toyota Corolla super fresh 2004,Toyota,Corolla,2004,Automatic,Saloon,"CNG, Octane",1331,68425,955000
+Toyota Corolla X 2004,Toyota,Corolla,2004,Automatic,Saloon,"CNG, Octane",1500,78965,990000
+Toyota Corolla X 2004,Toyota,Corolla,2004,Automatic,Saloon,"CNG, Octane",1500,68000,960000
+Toyota Corolla সাদা 2004,Toyota,Corolla,2004,Automatic,Saloon,"CNG, Octane",1500,68000,965000
+Toyota Corolla X-Assista 2004,Toyota,Corolla,2004,Automatic,Saloon,"CNG, Octane",1331,75500,870000
+Honda Fit G 2004,Honda,Fit,2004,Automatic,Saloon,"CNG, Octane",1300,46000,655000
+Toyota ist g edition 2004,Toyota,ist,2004,Automatic,Saloon,"CNG, Octane",1331,63422,785000
+Toyota X-Corolla 2004,Toyota,Other Model,2004,Automatic,Saloon,"CNG, Octane",1500,99000,990000
+Toyota Premio F G Package 2004,Toyota,Premio,2004,Automatic,Saloon,"CNG, Octane",1500,69000,1240000
+Toyota Premio F 2004,Toyota,Premio,2004,Automatic,Saloon,"CNG, Octane",1500,65700,1255000
+"Toyota Premio ""F"" 2004",Toyota,Premio,2004,Automatic,Saloon,"CNG, Octane",1500,82303,1295000
+Toyota Probox GL ALL AUTO 2004,Toyota,Probox,2004,Automatic,Saloon,"CNG, Octane",1331,98500,645000
+Toyota Probox full fresh 2004,Toyota,Probox,2004,Automatic,Saloon,"CNG, Octane",1500,80000,655000
+Toyota Probox সাদা 2004,Toyota,Probox,2004,Automatic,Saloon,"CNG, Octane",1500,68000,625000
+Toyota Raum X 2004,Toyota,Raum,2004,Automatic,Saloon,"CNG, Octane",1500,68700,810000
+Nissan Sunny G 2004,Nissan,Sunny,2004,Automatic,Saloon,"CNG, Octane",1500,74698,740000
+Maruti Suzuki WagonR VXI 2004,Maruti Suzuki,WagonR,2004,Manual,Saloon,"CNG, Octane",1061,73000,215000
+Toyota Allion G 2005,Toyota,Allion,2005,Automatic,Saloon,"CNG, Octane",1500,90000,1149999
+Toyota Allion G Limited 2005,Toyota,Allion,2005,Automatic,Saloon,"CNG, Octane",1500,59000,1200000
+Toyota Allion A 15 2005,Toyota,Allion,2005,Automatic,Saloon,"CNG, Octane",1500,75000,1175000
+Toyota Allion A 15 2005,Toyota,Allion,2005,Automatic,Saloon,"CNG, Octane",1500,72700,1165000
+Toyota Allion A 15 2005,Toyota,Allion,2005,Automatic,Saloon,"CNG, Octane",1500,75000,1160000
+Toyota Corolla x 2005,Toyota,Corolla,2005,Automatic,Saloon,"CNG, Octane",1500,84000,1075000
+Toyota Corolla X Super Fresh 2005,Toyota,Corolla,2005,Automatic,Saloon,"CNG, Octane",1500,130000,1000000
+Toyota Corolla G 2005,Toyota,Corolla,2005,Automatic,Saloon,"CNG, Octane",1500,69000,975000
+Toyota Corolla X New Shape 2005,Toyota,Corolla,2005,Automatic,Saloon,"CNG, Octane",1500,82753,1025000
+Toyota Corolla New Shape 2005,Toyota,Corolla,2005,Automatic,Saloon,"CNG, Octane",1500,79231,1085000
+Mitsubishi Galant 2005,Mitsubishi,Other Model,2005,Automatic,Saloon,"CNG, Octane",2500,99000,550000
+Toyota Premio F 2005,Toyota,Premio,2005,Automatic,Saloon,"CNG, Octane",1500,95000,1200000
+Toyota Premio F G Edition 2005,Toyota,Premio,2005,Automatic,Saloon,"CNG, Octane",1500,62365,1445000
+Toyota Premio option auto 2005,Toyota,Premio,2005,Automatic,Saloon,"CNG, Octane",1500,95000,1110000
+Toyota Premio F 2005,Toyota,Premio,2005,Automatic,Saloon,"CNG, Octane",1500,70000,1450000
+Toyota Premio F 2005,Toyota,Premio,2005,Automatic,Saloon,"CNG, Octane",1500,78000,1235000
+Toyota Allion silver 2006,Toyota,Allion,2006,Automatic,Saloon,"CNG, Octane",1500,71000,1250000
+Toyota Allion A 15 G Grade 2006,Toyota,Allion,2006,Automatic,Saloon,"CNG, Octane",1500,69000,1195000
+Toyota Allion A 15 PKG. 2006,Toyota,Allion,2006,Automatic,Saloon,"CNG, Octane",1500,90000,1265000
+Toyota Allion A15 2006,Toyota,Allion,2006,Automatic,Saloon,"CNG, Octane",1500,71038,1365000
+Toyota Corolla G 2006,Toyota,Corolla,2006,Automatic,Saloon,"CNG, Octane",1500,76000,1090000
+Toyota Corolla saloon 2006,Toyota,Corolla,2006,Automatic,Saloon,"CNG, Octane",1500,45000,1110000
+Toyota Corolla G 2006,Toyota,Corolla,2006,Automatic,Saloon,"CNG, Octane",1500,70000,1225000
+Toyota Corolla X 2006,Toyota,Corolla,2006,Automatic,Saloon,"CNG, Octane",1500,70305,1095000
+Toyota ALLION 2006,Toyota,Other Model,2006,Automatic,Saloon,"CNG, Octane",1500,68000,1420000
+Toyota Premio G Package 2006,Toyota,Premio,2006,Automatic,Saloon,"CNG, Octane",1500,68000,1280000
+Toyota Premio F 2006,Toyota,Premio,2006,Automatic,Saloon,"CNG, Octane",1500,68573,1350000
+Toyota Premio F 2006,Toyota,Premio,2006,Automatic,Saloon,"CNG, Octane",1500,96000,1350000
+Toyota Premio F_ PRIME SELECTION 2006,Toyota,Premio,2006,Automatic,Saloon,"CNG, Octane",1500,82417,1395000
+Toyota Allion G Push Start 2007,Toyota,Allion,2007,Automatic,Saloon,"CNG, Octane",1500,74000,1390000
+Toyota Allion A15 2007,Toyota,Allion,2007,Automatic,Saloon,"CNG, Octane",1500,65000,1370000
+Toyota Allion A15 2007,Toyota,Allion,2007,Automatic,Saloon,"CNG, Octane",1500,76585,1355000
+Toyota Allion A15 Standard package 2007,Toyota,Allion,2007,Automatic,Saloon,"CNG, Octane",1500,79832,1490000
+Toyota Allion A15 White 2007,Toyota,Allion,2007,Automatic,Saloon,"CNG, Octane",1500,77000,1375000
+Toyota Axio -X-ASH 2007,Toyota,Axio,2007,Automatic,Saloon,"CNG, Octane",1500,66000,1065000
+Toyota Axio -X 2007,Toyota,Axio,2007,Automatic,Saloon,"CNG, Octane",1500,75000,1065000
+Toyota Axio model 2007,Toyota,Axio,2007,Automatic,Saloon,"CNG, Octane",1500,77275,1030000
+Toyota Axio G (Push Start) 2007,Toyota,Axio,2007,Automatic,Saloon,"CNG, Octane",1500,85000,1090000
+Toyota Axio X 2007,Toyota,Axio,2007,Automatic,Saloon,"CNG, Octane",1500,75000,1090000
+Toyota Axio 2007,Toyota,Axio,2007,Automatic,Saloon,"CNG, Octane",1500,76000,955000
+Toyota Corolla 2002,Toyota,Corolla,2007,Automatic,Saloon,"CNG, Octane",1500,90000,860000
+Toyota Axio 2007,Toyota,Other Model,2007,Automatic,Saloon,"CNG, Octane",1500,99000,1150000
+Toyota Allion A15 - Push Start 2008,Toyota,Allion,2008,Automatic,Saloon,"CNG, Octane",1500,65825,1540000
+Toyota Allion G PKG Push Start 2008,Toyota,Allion,2008,Automatic,Saloon,"CNG, Octane",1500,65000,1550000
+Toyota Allion 2006,Toyota,Allion,2008,Automatic,Saloon,"CNG, Octane",1500,78631,1210000
+Toyota Axio Fresh Condition 2008,Toyota,Axio,2008,Automatic,Saloon,"CNG, Octane",1500,70000,1120000
+Toyota Axio G super fresh push 2008,Toyota,Axio,2008,Automatic,Saloon,"CNG, Octane",1500,54000,1095000
+Toyota Axio G Limited Edition 2008,Toyota,Axio,2008,Automatic,Saloon,"CNG, Octane",1500,65000,1140000
+Toyota Axio X 2008,Toyota,Axio,2008,Automatic,Saloon,"CNG, Octane",1500,68352,1130000
+Toyota Axio Push start 2008,Toyota,Axio,2008,Automatic,Saloon,"CNG, Octane",1500,69536,1175000
+Toyota Axio X 2008,Toyota,Axio,2008,Automatic,Saloon,"CNG, Octane",1496,85000,1340000
+Toyota Corolla 2003,Toyota,Corolla,2008,Automatic,Saloon,"CNG, Octane",1500,49560,880000
+Toyota Corolla 2005,Toyota,Corolla,2008,Automatic,Saloon,"CNG, Octane",1500,150000,900000
+Mitsubishi Lancer glx 2008,Mitsubishi,Lancer,2008,Automatic,Saloon,"CNG, Octane",1300,100000,650000
+Toyota Premio G superior 2008,Toyota,Premio,2008,Automatic,Saloon,"CNG, Octane",1500,79000,1620000
+Toyota Premio G superior 2008,Toyota,Premio,2008,Automatic,Saloon,"CNG, Octane",1500,72000,1585000
+Toyota Premio 2003,Toyota,Premio,2008,Automatic,Saloon,"CNG, Octane",1500,86000,1035000
+Toyota Premio 2005,Toyota,Premio,2008,Automatic,Saloon,"CNG, Octane",1500,110000,1195000
+Toyota Allion G PUSH HID 2009,Toyota,Allion,2009,Automatic,Saloon,"CNG, Octane",1500,89600,1585000
+Toyota Allion g edition 2009,Toyota,Allion,2009,Automatic,Saloon,"CNG, Octane",1500,84000,1565000
+Toyota Allion A15 2009,Toyota,Allion,2009,Automatic,Saloon,"CNG, Octane",1500,54326,1656000
+Toyota Allion A15 G Grad Push 2009,Toyota,Allion,2009,Automatic,Saloon,"CNG, Octane",1500,62000,1585000
+Toyota Allion G-Edition 2009,Toyota,Allion,2009,Automatic,Saloon,"CNG, Octane",1500,59280,1625000
+Toyota Axio G Limited 2009,Toyota,Axio,2009,Automatic,Saloon,"CNG, Octane",1500,58000,1210000
+Toyota Axio X 2009,Toyota,Axio,2009,Automatic,Saloon,"CNG, Octane",1500,100000,1090000
+Toyota Axio x 2009,Toyota,Axio,2009,Automatic,Saloon,"CNG, Octane",1500,78000,1199000
+Toyota Axio X 2009,Toyota,Axio,2009,Automatic,Saloon,"CNG, Octane",1500,70000,1150000
+Toyota Fielder 2004,Toyota,Fielder,2009,Automatic,Saloon,"CNG, Octane",1500,69000,915000
+Toyota Hiace 2005,Toyota,Hiace,2009,Automatic,Saloon,"CNG, Octane",2000,81000,1225000
+Toyota Premio F- 2009,Toyota,Premio,2009,Automatic,Saloon,"CNG, Octane",1500,65000,1695000
+Toyota Premio g superior 2009,Toyota,Premio,2009,Automatic,Saloon,"CNG, Octane",1500,52342,1745000
+Toyota Premio F Push 2009,Toyota,Premio,2009,Automatic,Saloon,"CNG, Octane",1500,57849,1755000
+Toyota Allion A-15 2010,Toyota,Allion,2010,Automatic,Saloon,"CNG, Octane",1500,82000,1620000
+Toyota Allion puhs start 2010,Toyota,Allion,2010,Automatic,Saloon,"CNG, Octane",1500,86000,1730000
+Toyota Allion A 15 G+ 2010,Toyota,Allion,2010,Automatic,Saloon,"CNG, Octane",1500,62700,1720000
+Toyota Allion A 15 G+ 2010,Toyota,Allion,2010,Automatic,Saloon,"CNG, Octane",1500,62300,1710000
+Toyota Allion A 15 G+ 2010,Toyota,Allion,2010,Automatic,Saloon,"CNG, Octane",1500,62300,1715000
+Toyota Allion A15 G+ 2010,Toyota,Allion,2010,Automatic,Saloon,"CNG, Octane",1500,55100,1750000
+Toyota Allion A15 G+ 2010,Toyota,Allion,2010,Automatic,Saloon,"CNG, Octane",1500,55056,1745000
+Toyota Allion A15 G+ 2010,Toyota,Allion,2010,Automatic,Saloon,"CNG, Octane",1500,55060,1745000
+Toyota Allion 2004,Toyota,Allion,2010,Automatic,Saloon,"CNG, Octane",1500,82100,1120000
+Toyota Axio X Limited 2010,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,75000,1180000
+Toyota Axio -X 2010,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,75000,1125000
+Toyota Axio Fielder 2010,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,88000,1200000
+Toyota Axio G Ltd 2010,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,58000,1320000
+Toyota Axio X 2010,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,68945,1295000
+Toyota Axio G Push Start 2010,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,87428,1220000
+Toyota Axio GOOD CAR G 2010,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,58000,1290000
+Toyota Axio খুবই ভালো কন্ডিশন 2010,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,58000,1295000
+Toyota Axio ফেমেলি ব্যবহারিত 2010,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,58000,1295000
+Toyota Axio সাদা পাল 2010,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,58000,1295000
+Toyota Axio 2008,Toyota,Axio,2010,Automatic,Saloon,"CNG, Octane",1500,89652,935000
+Toyota Premio EX 2010,Toyota,Premio,2010,Automatic,Saloon,"CNG, Octane",1500,53000,1870000
+Toyota Axio HID LTD 2011,Toyota,Axio,2011,Automatic,Saloon,"CNG, Octane",1500,75200,1215000
+Toyota Axio -X-SILVER 2011,Toyota,Axio,2011,Automatic,Saloon,"CNG, Octane",1500,65000,1265000
+Toyota Axio x 2011,Toyota,Axio,2011,Automatic,Saloon,"CNG, Octane",1500,113014,1255000
+Toyota Corolla 2005,Toyota,Corolla,2011,Automatic,Saloon,"CNG, Octane",1500,86000,1025000
+Toyota Premio G Superior 2011,Toyota,Premio,2011,Automatic,Saloon,"CNG, Octane",1500,47800,1885000
+Toyota Premio G Superior 2011,Toyota,Premio,2011,Automatic,Saloon,"CNG, Octane",1500,47900,1890000
+Toyota Premio fl push 2011,Toyota,Premio,2011,Automatic,Saloon,"CNG, Octane",1500,75000,1920000
+Toyota Premio G Suprior 2011,Toyota,Premio,2011,Automatic,Saloon,"CNG, Octane",1500,46230,1875000
+Toyota Premio CNG&Octane 2011,Toyota,Premio,2011,Automatic,Saloon,"CNG, Octane",1500,62000,1920000
+Toyota Premio G Superior 2011,Toyota,Premio,2011,Automatic,Saloon,"CNG, Octane",1500,55000,1785000
+Toyota Premio package G Superior 2011,Toyota,Premio,2011,Automatic,Saloon,"CNG, Octane",1500,62000,1950000
+Toyota Probox 2004,Toyota,Probox,2011,Automatic,Saloon,"CNG, Octane",1500,100000,590000
+Toyota Allion A15 G- Push Start 2012,Toyota,Allion,2012,Automatic,Saloon,"CNG, Octane",1500,62343,1750000
+Toyota Allion A.15 2012,Toyota,Allion,2012,Automatic,Saloon,"CNG, Octane",1500,59000,1780000
+Toyota Axio G 2012,Toyota,Axio,2012,Automatic,Saloon,"CNG, Octane",1500,98000,1330000
+Toyota Premio F EX. package 2012,Toyota,Premio,2012,Automatic,Saloon,"CNG, Octane",1500,45360,2130000
+Toyota Premio latest 2012,Toyota,Premio,2012,Automatic,Saloon,"CNG, Octane",1500,62000,2085000
+Toyota Premio G - Superior 2012,Toyota,Premio,2012,Automatic,Saloon,"CNG, Octane",1500,57300,2050000
+Toyota Premio G-Package 2012,Toyota,Premio,2012,Automatic,Saloon,"CNG, Octane",1500,77865,2020000
+Toyota Premio FL-HID LIMITED. 2012,Toyota,Premio,2012,Automatic,Saloon,"CNG, Octane",1500,90440,2025000
+Toyota Premio FL-HID Ltd. Pearl 2012,Toyota,Premio,2012,Automatic,Saloon,"CNG, Octane",1500,72421,2050000
+Toyota Premio 2005,Toyota,Premio,2012,Automatic,Saloon,"CNG, Octane",1500,75000,1240000
+Toyota Premio 2008,Toyota,Premio,2012,Automatic,Saloon,"CNG, Octane",1500,78952,1780000
+Toyota Allion 2007,Toyota,Allion,2013,Automatic,Saloon,"CNG, Octane",1500,96000,1315000
+Toyota Allion 2009,Toyota,Allion,2013,Automatic,Saloon,"CNG, Octane",1800,78542,1590000
+Toyota Axio G NEW SHAPE KOK 2013,Toyota,Axio,2013,Automatic,Saloon,"CNG, Octane",1500,45300,1445000
+Toyota Axio X 2013,Toyota,Axio,2013,Automatic,Saloon,"CNG, Octane",1500,62554,1565000
+Toyota Axio X 2013,Toyota,Axio,2013,Automatic,Saloon,"CNG, Octane",1500,65308,1455000
+Toyota Premio G Superior 2013,Toyota,Premio,2013,Automatic,Saloon,"CNG, Octane",1500,73000,1940000
+Toyota Premio F EX G Suprior 2013,Toyota,Premio,2013,Automatic,Saloon,"CNG, Octane",1500,43200,2150000
+Toyota Premio F Ex Pkg 2013,Toyota,Premio,2013,Automatic,Saloon,"CNG, Octane",1500,43500,2145000
+Toyota Premio F Ex Pkg 2013,Toyota,Premio,2013,Automatic,Saloon,"CNG, Octane",1500,43500,2155000
+Toyota Premio F EX G Suprior 2013,Toyota,Premio,2013,Automatic,Saloon,"CNG, Octane",1500,43080,2145000
+Toyota Premio 2008,Toyota,Premio,2013,Automatic,Saloon,"CNG, Octane",1500,63000,1640000
+Toyota Allion Allion-G- Push start 2014,Toyota,Allion,2014,Automatic,Saloon,"CNG, Octane",1500,62000,2140000
+Toyota Allion G push loan 2014,Toyota,Allion,2014,Automatic,Saloon,"CNG, Octane",1500,61500,1290000
+Toyota Allion 2009,Toyota,Allion,2014,Automatic,Saloon,"CNG, Octane",1500,78000,1550000
+Toyota Axio X 2014,Toyota,Axio,2014,Automatic,Saloon,"CNG, Octane",1500,37800,1580000
+Toyota Axio x silver loan 2014,Toyota,Axio,2014,Automatic,Saloon,"CNG, Octane",1500,42000,920000
+Toyota Axio x white loan 2014,Toyota,Axio,2014,Automatic,Saloon,"CNG, Octane",1500,42000,920000
+Toyota Axio 2010,Toyota,Axio,2014,Automatic,Saloon,"CNG, Octane",1500,79852,1130000
+Toyota Axio 2009,Toyota,Axio,2014,Automatic,Saloon,"CNG, Octane",1500,160000,1109985
+Toyota Axio 2010,Toyota,Axio,2014,Automatic,Saloon,"CNG, Octane",1500,58000,1190000
+Toyota Premio FL package 2014,Toyota,Premio,2014,Automatic,Saloon,"CNG, Octane",1500,57842,2030000
+Toyota Rush 2007,Toyota,Rush,2015,Automatic,Saloon,"CNG, Octane",1500,67000,1145000
+Toyota Fielder 2011,Toyota,Fielder,2016,Automatic,Saloon,"CNG, Octane",1500,56000,1295000
+Toyota Premio NEW SHAPE 2016,Toyota,Premio,2016,Automatic,Saloon,"CNG, Octane",1500,36980,2600000
+Toyota Premio 2011,Toyota,Premio,2016,Automatic,Saloon,"CNG, Octane",1500,78542,1895000
+Toyota Fielder 2012,Toyota,Fielder,2017,Automatic,Saloon,"CNG, Octane",1500,65000,1315000
+Nissan Pathfinder New Shape 1992,Nissan,Pathfinder,1992,Automatic,SUV / 4x4,"CNG, Octane",2400,234000,260000
+Suzuki Black 1993,Suzuki,Other Model,1993,Automatic,SUV / 4x4,"CNG, Octane",1600,72000,460000
+Toyota Prado TX 1996,Toyota,Prado,1996,Automatic,SUV / 4x4,"CNG, Octane",3300,85000,1350000
+Honda CR-V 1997,Honda,CR-V,1997,Automatic,SUV / 4x4,"CNG, Octane",2000,75000,750000
+Mitsubishi V6 Sunroof 1997,Mitsubishi,V6,1997,Automatic,SUV / 4x4,"CNG, Octane",3500,148000,1295000
+Toyota Cami Limited Edition 2001,Toyota,Cami,2001,Automatic,SUV / 4x4,"CNG, Octane",1300,70000,590000
+Nissan Carryboy Double Cabin Pickup 2004,Nissan,Carryboy,2004,Manual,SUV / 4x4,"CNG, Octane",2400,150000,850000
+Toyota Kluger Hardtop power seat 2004,Toyota,Kluger,2004,Automatic,SUV / 4x4,"CNG, Octane",2400,88000,1625000
+Toyota Kluger L( Sunroof) 2004,Toyota,Kluger,2004,Automatic,SUV / 4x4,"CNG, Octane",2400,75000,1645000
+Toyota RAV4 G Package 2005,Toyota,RAV4,2005,Automatic,SUV / 4x4,"CNG, Octane",2000,70000,1480000
+Mazda CX-7 BLACK 2006,Mazda,CX-7,2006,Automatic,SUV / 4x4,"CNG, Octane",2260,75000,1695000
+Toyota Noah KR42 2006,Toyota,Noah,2006,Automatic,SUV / 4x4,"CNG, Octane",1800,75000,1175000
+Toyota Rush SUV push HID project 2008,Toyota,Rush,2008,Automatic,SUV / 4x4,"CNG, Octane",1500,65300,1045000
+Toyota Avanza 2016,Toyota,Avanza,2017,Automatic,SUV / 4x4,"CNG, Octane",1500,13072,2390000
+Toyota Hilux DOUBLE CABIN PICKUP 2006,Toyota,Hilux,2006,Manual,Convertible,Diesel,2500,81000,1699000
+Toyota Estima Lucida 1995,Toyota,Estima,1995,Automatic,Estate,Diesel,2000,100000,370000
+Mitsubishi Noah 1996,Mitsubishi,Other Model,1996,Manual,MPV,Diesel,2000,100000,200000
+Mitsubishi l200 ডাবল কেবিন 1998,Mitsubishi,l200,1998,Manual,MPV,Diesel,2500,100000,580000
+Toyota Hiace super fresh 2001,Toyota,Hiace,2001,Automatic,MPV,Diesel,2000,74452,795000
+Toyota Hiace kds 2004,Toyota,Hiace,2004,Automatic,MPV,Diesel,2500,200000,1150000
+Toyota Hiace Diesel 2005,Toyota,Hiace,2005,Manual,MPV,Diesel,2500,120000,1290000
+Hyundai H1 . 2011,Hyundai,H1,2011,Automatic,MPV,Diesel,2400,55310,1750000
+Hyundai H1 OriginalDiesel-Black 2012,Hyundai,H1,2012,Automatic,MPV,Diesel,2400,65432,1750000
+Toyota Coaster 2013 Diesel 26 Seat,Toyota,Coaster,2013,Manual,MPV,Diesel,4200,52000,1750000
+Tata Ambulance 2013,Tata,Other Model,2013,Manual,MPV,Diesel,2200,85000,370000
+Toyota Hiace GL DIESEL AMBULANCE 2015,Toyota,Hiace,2015,Automatic,MPV,Diesel,3000,44000,1550000
+Toyota Land Cruiser 1995,Toyota,Land Cruiser,1995,Automatic,null,Diesel,2400,77000,1200000
+Toyota Land Cruiser 1993,Toyota,Land Cruiser,1993,Manual,null,Diesel,2400,71000,475000
+Kia 1994,Kia,Other Model,1994,Manual,null,Diesel,2400,3085,125000
+Mitsubishi Pajero 1991,Mitsubishi,Pajero,1991,Manual,null,Diesel,2500,92000,225000
+Nissan Pathfinder 1993,Nissan,Pathfinder,1993,Manual,null,Diesel,2400,203162,380000
+Daihatsu Rocky 1989,Daihatsu,Rocky,1989,Manual,null,Diesel,2600,61000,175000
+Daihatsu Rocky 1992,Daihatsu,Rocky,1992,Manual,null,Diesel,2600,77000,235000
+BMW 5 Series 520D 2009,BMW,5 Series,2009,Automatic,Saloon,Diesel,2000,38000,2750000
+Tata Indigo Ecs লিঃ ২২ কিঃ রান করে 2013,Tata,Indigo Ecs,2013,Manual,Saloon,Diesel,1500,87521,450000
+Tata Indigo Ecs famely use 2013,Tata,Indigo Ecs,2013,Manual,Saloon,Diesel,1500,79523,450000
+Tata Indigo Ecs 1500 2013,Tata,Indigo Ecs,2013,Manual,Saloon,Diesel,1500,87523,450000
+Kia  414 1987,Kia,Other Model,1987,Manual,SUV / 4x4,Diesel,2000,100000,360000
+Mitsubishi Pajero 1992,Mitsubishi,Pajero,1993,Manual,SUV / 4x4,Diesel,2500,75000,555555
+Toyota Hiace DESIL 3L 1999,Toyota,Hiace,1999,Manual,SUV / 4x4,Diesel,2700,8100,370000
+Nissan Terrano 2001,Nissan,Terrano,2002,Manual,SUV / 4x4,Diesel,2700,81000,1190000
+Mitsubishi Pajero Nativa Diesel S roof 2003,Mitsubishi,Pajero,2003,Automatic,SUV / 4x4,Diesel,2500,155000,1530000
+Nissan Carryboy GREEN 2005,Nissan,Carryboy,2005,Automatic,SUV / 4x4,Diesel,2389,85000,895000
+Toyota Hilux pickup 2005,Toyota,Hilux,2005,Manual,SUV / 4x4,Diesel,2779,85000,1390000
+Tata 709 Turbo 2006,Tata,Other Model,2006,Manual,SUV / 4x4,Diesel,3700,64848,350000
+Toyota Prado TX 2010,Toyota,Prado,2010,Automatic,SUV / 4x4,Diesel,3000,15010,7500000
+Nissan X-Trail Diesel Driven 2011,Nissan,X-Trail,2011,Automatic,SUV / 4x4,Diesel,2000,194000,2125000
+Toyota Land Cruiser V8 DIESEL RUNS 2014,Toyota,Land Cruiser,2014,Automatic,SUV / 4x4,Diesel,4500,37609,14900000
+Ford Eco Sport মেনুয়াল গিয়ার 2015,Ford,Eco Sport,2015,Automatic,SUV / 4x4,Diesel,1500,77000,1810000
+Toyota Land Cruiser V8 2015,Toyota,Land Cruiser,2015,Automatic,SUV / 4x4,Diesel,4500,36036,16000000
+SsangYong Sunroof 2015,SsangYong,Other Model,2015,Automatic,SUV / 4x4,Diesel,2000,32122,3000000
+SsangYong Kyron 2015,SsangYong,Kyron,2016,Automatic,SUV / 4x4,Diesel,2000,17252,2450000
+Mahindra option auto 2017,Mahindra,Other Model,2017,Manual,SUV / 4x4,Diesel,1500,55000,1550000
+Toyota Hiace GL 2016,Toyota,Hiace,2016,Automatic,MPV,"Diesel, Petrol",2000,43634,2300000
+Toyota Axio X HYBRID SILVER 4 2015,Toyota,Axio,2015,Automatic,Estate,Hybrid,1500,65000,1590000
+Toyota Fielder G Push Silver 3.5 2015,Toyota,Fielder,2015,Automatic,Estate,Hybrid,1500,86000,1730000
+Toyota Fielder X Hybrid Black NS 4 2015,Toyota,Fielder,2015,Automatic,Estate,Hybrid,1500,85000,1680000
+Toyota Fielder G PUSH LED BLACK 2016,Toyota,Fielder,2016,Automatic,Estate,Hybrid,1500,58000,2180000
+Toyota Fielder WXB 4.5 POINT 2016,Toyota,Fielder,2016,Automatic,Estate,Hybrid,1500,77000,2180000
+Toyota Fielder WXB Hybrid 4.5 Point 2016,Toyota,Fielder,2016,Automatic,Estate,Hybrid,1500,35000,2170000
+Toyota Fielder WXB HYBRID PEARL 4.5 2016,Toyota,Fielder,2016,Automatic,Estate,Hybrid,1500,49000,2160000
+Toyota Fielder WXB HYBRID WINE 2016,Toyota,Fielder,2016,Automatic,Estate,Hybrid,1500,75000,2190000
+Toyota Fielder x Hid 4 point 2016,Toyota,Fielder,2016,Automatic,Estate,Hybrid,1500,94000,1800000
+Toyota Harrier premium. package 2016,Toyota,Harrier,2016,Automatic,Estate,Hybrid,2500,80000,6100000
+Toyota Prius ALPHA G TURING 2016,Toyota,Prius,2016,Automatic,Estate,Hybrid,1800,39000,3100000
+Toyota Aqua hybrid 2010,Toyota,Aqua,2010,Automatic,Hatchback,Hybrid,1500,48650,1150000
+Toyota Fielder G Aero Tourer Hybrid 2013,Toyota,Fielder,2013,Automatic,Hatchback,Hybrid,1500,35000,2050000
+Toyota Aqua hybrid 2014,Toyota,Aqua,2014,Automatic,Hatchback,Hybrid,1500,74521,1350000
+Toyota Fielder G hybrid/push start 2014,Toyota,Fielder,2014,Automatic,Hatchback,Hybrid,1500,50000,1620000
+Toyota Aqua Hybrid S PUSH START 2015,Toyota,Aqua,2015,Automatic,Hatchback,Hybrid,1500,50200,1480000
+Toyota Aqua Hybrid S SMART ENTRY 2015,Toyota,Aqua,2015,Automatic,Hatchback,Hybrid,1500,54000,1430000
+Toyota Aqua Hybrid GG'S 2016,Toyota,Aqua,2016,Automatic,Hatchback,Hybrid,1500,50500,1750000
+Toyota Aqua Gs 2016,Toyota,Aqua,2016,Automatic,Hatchback,Hybrid,1500,40000,1920000
+Toyota Fielder G Hybrid 2016,Toyota,Fielder,2016,Automatic,Hatchback,Hybrid,1500,35000,1950000
+Toyota Prius PREMIUM TOURING 2016,Toyota,Prius,2016,Automatic,Hatchback,Hybrid,1800,37000,2750000
+"Toyota Esquire GI, HYBRID 2016",Toyota,Esquire,2016,Automatic,MPV,Hybrid,1800,34300,3175000
+"Toyota Esquire GI, HYBRID 2016",Toyota,Esquire,2016,Automatic,MPV,Hybrid,1800,35000,3140000
+Toyota Noah ESQUIRE GI BLACK 2016,Toyota,Noah,2016,Automatic,MPV,Hybrid,1800,77000,3250000
+Toyota Esquire HYBRID GI PREMIUM 2017,Toyota,Esquire,2017,Automatic,MPV,Hybrid,1800,81000,3970000
+Toyota Noah Esquire Black GI 2017,Toyota,Noah,2017,Automatic,MPV,Hybrid,1800,43000,4120000
+Toyota Axio hybrid 2014,Toyota,Axio,2014,Automatic,Saloon,Hybrid,1500,60000,1450000
+Honda Grace EX 2014,Honda,Grace,2014,Automatic,Saloon,Hybrid,1500,35000,1999999
+Toyota Axio X GRADE HYBRID KEY 2015,Toyota,Axio,2015,Automatic,Saloon,Hybrid,1500,99000,1800000
+Toyota Axio Hybrid 2015,Toyota,Axio,2015,Automatic,Saloon,Hybrid,1500,51000,1650000
+Toyota Axio Hybrid New Shape 2015,Toyota,Axio,2015,Automatic,Saloon,Hybrid,1500,50000,1650000
+Toyota Axio X Hybrid new 2015,Toyota,Axio,2015,Automatic,Saloon,Hybrid,1500,39089,1510000
+Toyota Allion MICA BLUE G LED 2016,Toyota,Allion,2016,Automatic,Saloon,Hybrid,1500,28000,3150000
+Mazda Axela S hybrid 2016,Mazda,Axela,2016,Automatic,Saloon,Hybrid,1500,68000,2250000
+Toyota Axio Hybrid 2016,Toyota,Axio,2016,Automatic,Saloon,Hybrid,1500,71000,1850000
+"Toyota Axio G PEARL, HYBRID 2016",Toyota,Axio,2016,Automatic,Saloon,Hybrid,1500,36800,1975000
+Honda Grace EX 4.5 POINT 2016,Honda,Grace,2016,Automatic,Saloon,Hybrid,1500,52000,2450000
+Honda Grace HYBRID LX 2016,Honda,Grace,2016,Automatic,Saloon,Hybrid,1500,34703,1950000
+Toyota Prius S TOURING 2016,Toyota,Prius,2016,Automatic,Saloon,Hybrid,1800,900000,2660000
+Toyota Prius HYB S Safety Sence 2016,Toyota,Prius,2016,Automatic,Saloon,Hybrid,1800,45000,2300000
+Honda Grace DX 2017,Honda,Grace,2017,Automatic,Saloon,Hybrid,1500,30662,2050000
+Honda CR-Z Sports 2014,Honda,CR-Z,2014,Automatic,SUV / 4x4,Hybrid,1500,17000,1750000
+Nissan X-Trail Hybrid EBP 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,Hybrid,2000,39000,3650000
+Nissan X-Trail mode premium/4.5 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,Hybrid,2000,30000,3920000
+Toyota C-HR G LED RED Wine 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,Hybrid,1500,55000,3200000
+Toyota C-HR G LED 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,Hybrid,1800,48000,3150000
+Toyota C-HR G led 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,Hybrid,1800,86000,3200000
+Toyota C-HR Hybrid G-LED 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,Hybrid,1800,30000,3150000
+Toyota Harrier Non Hybrid ADV.PRM 2017,Toyota,Harrier,2017,Automatic,SUV / 4x4,Hybrid,2000,25000,7200000
+Toyota Harrier Hybrid Progress ML 2017,Toyota,Harrier,2017,Automatic,SUV / 4x4,Hybrid,2500,20000,7300000
+Toyota Harrier hybrid/PROGRESS 2017,Toyota,Harrier,2017,Automatic,SUV / 4x4,Hybrid,2500,33000,7250000
+Nissan X-Trail EBP BROWN 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,Hybrid,2000,33000,4550000
+Nissan X-Trail MODE PREMIER 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,Hybrid,2000,20000,4250000
+Nissan X-Trail Black/sunroof 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,Hybrid,2000,57000,4430000
+Toyota Harrier PROGRESS METAL 2018,Toyota,Harrier,2018,Automatic,SUV / 4x4,Hybrid,2500,21000,7900000
+Nissan X-Trail HYBRID BLACK COLOR 2018,Nissan,X-Trail,2018,Automatic,SUV / 4x4,Hybrid,2000,45000,4570000
+Toyota Axio Fielder Hybrid 2013,Toyota,Axio,2013,Automatic,Estate,"Hybrid, Octane",1500,86215,1470000
+Toyota Corolla FIELDER G LED LTD 2015,Toyota,Corolla,2015,Automatic,Estate,"Hybrid, Octane",1500,34333,1870000
+Toyota Noah G Hyb Base. sit 2016,Toyota,Noah,2016,Automatic,Estate,"Hybrid, Octane",1800,77000,3050000
+"Toyota Aqua TRD,G PUSH 2012",Toyota,Aqua,2012,Automatic,Hatchback,"Hybrid, Octane",1500,29950,1125000
+Toyota Aqua G Super fresh 2013,Toyota,Aqua,2013,Automatic,Hatchback,"Hybrid, Octane",1500,42000,1185000
+Toyota Aqua — G ’GS Model 2015,Toyota,Aqua,2015,Automatic,Hatchback,"Hybrid, Octane",1500,75104,1730000
+Toyota Fielder HYBRID .. x ... 2016,Toyota,Fielder,2016,Automatic,Hatchback,"Hybrid, Octane",1500,34560,1620000
+Toyota Fielder HYBRID .. x ... 2016,Toyota,Fielder,2016,Automatic,Hatchback,"Hybrid, Octane",1500,34560,1620000
+Toyota Fielder X.HYBRID * 2016,Toyota,Fielder,2016,Automatic,Hatchback,"Hybrid, Octane",1500,34560,1620000
+Toyota Prius S ... 2016,Toyota,Prius,2016,Automatic,Hatchback,"Hybrid, Octane",1800,34560,2100000
+Toyota Noah Esquire.. Hybrid 2014,Toyota,Noah,2014,Automatic,MPV,"Hybrid, Octane",1797,53535,2545000
+Toyota Alphard Executive Lounge— 2015,Toyota,Alphard,2015,Automatic,MPV,"Hybrid, Octane",2500,37856,8600000
+Toyota Esquire g.i. প্রিমিয়াম 2015,Toyota,Esquire,2015,Automatic,MPV,"Hybrid, Octane",1800,85000,2750000
+Toyota Esquire Black Gi Premium 2016,Toyota,Esquire,2016,Automatic,MPV,"Hybrid, Octane",1800,52000,3230000
+Toyota Esquire [ XI- HYBRID ] 2016,Toyota,Esquire,2016,Automatic,MPV,"Hybrid, Octane",1800,30718,2750000
+Toyota Esquire XI- HYBRID 2016,Toyota,Esquire,2016,Automatic,MPV,"Hybrid, Octane",1800,43107,2750000
+Toyota Esquire GI 2016,Toyota,Esquire,2016,Automatic,MPV,"Hybrid, Octane",1800,45214,2850000
+Toyota Noah [ X HYBRID ] .. 2016,Toyota,Noah,2016,Automatic,MPV,"Hybrid, Octane",1800,34175,2560000
+Toyota Noah HYBRID X 2016,Toyota,Noah,2016,Automatic,MPV,"Hybrid, Octane",1800,30724,2500000
+Toyota Esquire Gi Premium Pearl 2017,Toyota,Esquire,2017,Automatic,MPV,"Hybrid, Octane",1800,25608,3845000
+Toyota Noah Purple WXB 2017,Toyota,Noah,2017,Automatic,MPV,"Hybrid, Octane",1800,62543,3180000
+Toyota Aqua G Edition 2013,Toyota,Aqua,2013,Automatic,Saloon,"Hybrid, Octane",1500,52000,1120000
+Toyota Axio Hybrid G. SP. EDT 2013,Toyota,Axio,2013,Automatic,Saloon,"Hybrid, Octane",1500,36000,1480000
+Toyota Axio Hybrid G 2013,Toyota,Axio,2013,Automatic,Saloon,"Hybrid, Octane",1500,29550,1455000
+Toyota Prius Gs Sports 2013,Toyota,Prius,2013,Automatic,Saloon,"Hybrid, Octane",1800,47000,1680000
+Toyota Axio G hi brit loan 2014,Toyota,Axio,2014,Automatic,Saloon,"Hybrid, Octane",1500,41000,850000
+Toyota Axio X Sliver Hybrid 2014,Toyota,Axio,2014,Automatic,Saloon,"Hybrid, Octane",1500,81304,1490000
+Toyota Camry G SUNROOF 2014,Toyota,Camry,2014,Automatic,Saloon,"Hybrid, Octane",2500,20000,4300000
+Honda Grace EX PKG 2014,Honda,Grace,2014,Automatic,Saloon,"Hybrid, Octane",1500,45243,1650000
+Honda Vezel hybrid 2014,Honda,Vezel,2014,Automatic,Saloon,"Hybrid, Octane",1500,51000,1860000
+Toyota Aqua hybrid 2015,Toyota,Aqua,2015,Automatic,Saloon,"Hybrid, Octane",1500,32420,1350000
+Toyota Axio New Shape 2015,Toyota,Axio,2015,Automatic,Saloon,"Hybrid, Octane",1500,36000,1650000
+Toyota Axio X Hybrid 2015,Toyota,Axio,2015,Automatic,Saloon,"Hybrid, Octane",1500,28889,1580000
+Toyota Axio [ HYBRID -.. X ] 2015,Toyota,Axio,2015,Automatic,Saloon,"Hybrid, Octane",1500,38172,1520000
+Toyota Axio [ HYBRID X ] .. 2015,Toyota,Axio,2015,Automatic,Saloon,"Hybrid, Octane",1500,34560,1520000
+Toyota Axio [.HYBRID X.] 2015,Toyota,Axio,2015,Automatic,Saloon,"Hybrid, Octane",1500,43107,1520000
+Toyota Axio HYBRID [ X ] ... 2015,Toyota,Axio,2015,Automatic,Saloon,"Hybrid, Octane",1500,34560,1530000
+Toyota Axio X- HYBRID 2015,Toyota,Axio,2015,Automatic,Saloon,"Hybrid, Octane",1500,37091,1520000
+Toyota Axio X.HYBRID..... 2015,Toyota,Axio,2015,Automatic,Saloon,"Hybrid, Octane",1500,34550,1520000
+Toyota Axio WHITE 2015,Toyota,Axio,2015,Automatic,Saloon,"Hybrid, Octane",1500,49521,1690000
+Toyota Axio SILVER 2015,Toyota,Axio,2015,Automatic,Saloon,"Hybrid, Octane",2015,90238,1710000
+Honda Grace EX PACKAGE 2015,Honda,Grace,2015,Automatic,Saloon,"Hybrid, Octane",1500,28700,1795000
+Honda Grace LED HYBRID 2015,Honda,Grace,2015,Automatic,Saloon,"Hybrid, Octane",1500,49000,1990000
+Honda Grace EX DHAKA READY 2015,Honda,Grace,2015,Automatic,Saloon,"Hybrid, Octane",1500,38000,2000000
+Toyota Axio New Shape 2016,Toyota,Axio,2016,Automatic,Saloon,"Hybrid, Octane",1500,56000,1800000
+Toyota Axio HYBRID 2016,Toyota,Axio,2016,Automatic,Saloon,"Hybrid, Octane",1500,131000,1829995
+Toyota Axio [ .X..-..HYBRID ] 2016,Toyota,Axio,2016,Automatic,Saloon,"Hybrid, Octane",1500,29704,1620000
+Toyota Axio [ HYBRID X ] .. 2016,Toyota,Axio,2016,Automatic,Saloon,"Hybrid, Octane",1500,34560,1620000
+Toyota Axio HYBRID X 2016,Toyota,Axio,2016,Automatic,Saloon,"Hybrid, Octane",1500,31804,1620000
+Toyota Axio X - HYBRID 2016,Toyota,Axio,2016,Automatic,Saloon,"Hybrid, Octane",1500,34072,1620000
+Honda Grace Adorable Red 2016,Honda,Grace,2016,Automatic,Saloon,"Hybrid, Octane",1500,27000,2400000
+Honda Grace [ ...EX... ] 2016,Honda,Grace,2016,Automatic,Saloon,"Hybrid, Octane",1500,29704,1920000
+Honda Grace [ DX ] 2016,Honda,Grace,2016,Automatic,Saloon,"Hybrid, Octane",1500,31720,1650000
+Honda Grace [. EX .] 2016,Honda,Grace,2016,Automatic,Saloon,"Hybrid, Octane",1500,37150,1920000
+Honda Grace [..DX..] 2016,Honda,Grace,2016,Automatic,Saloon,"Hybrid, Octane",1500,34182,1650000
+Honda Grace DX 2016,Honda,Grace,2016,Automatic,Saloon,"Hybrid, Octane",1500,34450,1650000
+Honda Grace Dx/Black 2016,Honda,Grace,2016,Automatic,Saloon,"Hybrid, Octane",1500,50358,1895000
+"Toyota Prius S TOURING PKG, 2016",Toyota,Prius,2016,Automatic,Saloon,"Hybrid, Octane",1800,88000,2650000
+"Toyota Prius S TOURING PKG, BLACK 2016",Toyota,Prius,2016,Automatic,Saloon,"Hybrid, Octane",1800,100000,2650000
+"Toyota Prius Sun Roof, Pearl 2016",Toyota,Prius,2016,Automatic,Saloon,"Hybrid, Octane",1800,54000,2800000
+Honda Grace Beauty Queen 2017,Honda,Grace,2017,Automatic,Saloon,"Hybrid, Octane",1500,28000,2630000
+Honda Grace New Shape Grey 2017,Honda,Grace,2017,Automatic,Saloon,"Hybrid, Octane",1500,23000,2450000
+Honda Grace Ex sensing/Red 2017,Honda,Grace,2017,Automatic,Saloon,"Hybrid, Octane",1500,32463,2570000
+Honda Grace EX.... 2017,Honda,Grace,2017,Automatic,Saloon,"Hybrid, Octane",1500,34520,2320000
+Honda Grace PEARL 2017,Honda,Grace,2017,Automatic,Saloon,"Hybrid, Octane",1500,14939,2650000
+Honda Grace BEAUTiFUL UNIT 2018,Honda,Grace,2018,Automatic,Saloon,"Hybrid, Octane",1500,25000,2650000
+Honda Vezel GRADE 4.5 HYBRID 2014,Honda,Vezel,2014,Automatic,SUV / 4x4,"Hybrid, Octane",1500,45100,1900000
+Lexus NX 300H FABULOUS RED 2015,Lexus,NX,2015,Automatic,SUV / 4x4,"Hybrid, Octane",2500,35120,7650000
+Toyota Esquire [ HYBRID GI ] ... 2016,Toyota,Esquire,2016,Automatic,SUV / 4x4,"Hybrid, Octane",1800,34560,2980000
+Toyota Esquire GI HYBRID. 2016,Toyota,Esquire,2016,Automatic,SUV / 4x4,"Hybrid, Octane",1800,38450,2980000
+Toyota Harrier HYB ADV PREMIUM 360 2016,Toyota,Harrier,2016,Automatic,SUV / 4x4,"Hybrid, Octane",2500,39157,5300000
+Toyota Noah [ G HYBRID ] ... 2016,Toyota,Noah,2016,Automatic,SUV / 4x4,"Hybrid, Octane",1800,38450,2750000
+Toyota Noah [ HYBRID - X ] .. 2016,Toyota,Noah,2016,Automatic,SUV / 4x4,"Hybrid, Octane",1800,34560,2550000
+Toyota Noah X.HYBRID 2016,Toyota,Noah,2016,Automatic,SUV / 4x4,"Hybrid, Octane",1800,38450,2580000
+Mitsubishi Outlandar Pearl G LED 2016,Mitsubishi,Outlandar,2016,Automatic,SUV / 4x4,"Hybrid, Octane",2000,18000,4680000
+Honda Vezel HYBRID . Z ... 2016,Honda,Vezel,2016,Automatic,SUV / 4x4,"Hybrid, Octane",1500,34560,2650000
+Nissan X-Trail [ HYBRID - EMBP ] .. 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,"Hybrid, Octane",2000,36550,3450000
+Nissan X-Trail [ HYBRID - EMBP ] .> 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,"Hybrid, Octane",2000,35650,3450000
+"Toyota C-HR G LED PKG, BLACK 2017",Toyota,C-HR,2017,Automatic,SUV / 4x4,"Hybrid, Octane",1800,44600,3400000
+"Toyota C-HR G LED PKG, GRAY T.T 2017",Toyota,C-HR,2017,Automatic,SUV / 4x4,"Hybrid, Octane",1800,66768,3250000
+Toyota C-HR Hybrid 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,"Hybrid, Octane",1800,34563,2750000
+Toyota C-HR Black G LED 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,"Hybrid, Octane",1800,20005,3080005
+Toyota C-HR BOOST Impulse G LED 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,"Hybrid, Octane",1800,19005,3280005
+Toyota C-HR Modellista G LED 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,"Hybrid, Octane",1800,22000,3250000
+"Toyota C-HR G LED PKG, GRAY 2018",Toyota,C-HR,2018,Automatic,SUV / 4x4,"Hybrid, Octane",1800,65894,3400000
+Nissan X-Trail HYBRID 2018,Nissan,X-Trail,2018,Automatic,SUV / 4x4,"Hybrid, Octane",2000,21817,4300000
+"Nissan X-Trail Pro Pilot Grade 4,5 2018",Nissan,X-Trail,2018,Automatic,SUV / 4x4,"Hybrid, Octane",2000,31900,4642000
+Toyota Fielder WXB HYBRID 2015,Toyota,Fielder,2015,Automatic,Saloon,"Hybrid, Octane, LPG",1500,24987,1950000
+Toyota Fielder Brown G Pkg Hybrid 2014,Toyota,Fielder,2014,Automatic,Estate,"Hybrid, Octane",1500,109000,1750000
+Toyota Fielder HYBRID G WxB BLACK 2014,Toyota,Fielder,2014,Automatic,Estate,"Hybrid, Octane",1500,84000,1750000
+Toyota Aqua S_PKG_HYBRID_ORANGE 2014,Toyota,Aqua,2014,Automatic,Hatchback,"Hybrid, Octane",1500,136000,1350000
+Toyota Prius Red S Touring Hybrid 2016,Toyota,Prius,2016,Automatic,Hatchback,"Hybrid, Octane",1800,79000,2700000
+Honda Grace EX PKG SILVER MUGEN 2014,Honda,Grace,2014,Automatic,Saloon,"Hybrid, Octane",1500,32000,2000000
+Toyota Premio Pearl_FL_New_Shape 2017,Toyota,Premio,2017,Automatic,Saloon,"Hybrid, Octane",1500,44000,3150000
+Honda Vezel Z Pkg Hybrid WIne 2014,Honda,Vezel,2014,Automatic,SUV / 4x4,"Hybrid, Octane",1500,55000,2600000
+Honda Vezel BLACK_Z_STYLE_HYBRID 2015,Honda,Vezel,2015,Automatic,SUV / 4x4,"Hybrid, Octane",1500,47000,2750000
+Mitsubishi Lancer GLX 2006,Mitsubishi,Lancer,2006,Automatic,Saloon,LPG,1500,105000,755000
+Honda S660 Turbo Charged 2015,Honda,S660,2015,Automatic,Convertible,Octane,660,10900,1850000
+Nissan X-Trail Sunroof. 2016,Nissan,X-Trail,2016,Automatic,Convertible,Octane,1500,67000,4670000
+Mazda RX-8 Sports Car 2005,Mazda,RX-8,2005,Automatic,Coupé/Sports,Octane,1300,25010,1550000
+Toyota Land Cruiser 4WD 1995,Toyota,Land Cruiser,1995,Manual,Estate,Octane,2367,92458,750000
+Toyota Corolla g editions filter 2005,Toyota,Corolla,2005,Automatic,Estate,Octane,1500,55256,1020000
+Mazda Axela super fresh 2009,Mazda,Axela,2009,Automatic,Estate,Octane,1500,68452,1035000
+Toyota Axio Fielder 2010,Toyota,Axio,2010,Automatic,Estate,Octane,1500,55000,1365000
+Nissan Note G PKG 2010,Nissan,Note,2010,Automatic,Estate,Octane,1500,53840,1175000
+Toyota Vitz Key Start 2010,Toyota,Vitz,2010,Automatic,Estate,Octane,1000,60000,845000
+Toyota Corolla Rumion G Addition 2011,Toyota,Corolla,2011,Automatic,Estate,Octane,1500,56000,1450000
+Toyota Sienta Read Wine 7Seat 2011,Toyota,Sienta,2011,Automatic,Estate,Octane,1500,41000,1260000
+Toyota Axio g edition 2012,Toyota,Axio,2012,Automatic,Estate,Octane,1500,32323,1395000
+Toyota Fielder mica blue g pkg 2012,Toyota,Fielder,2012,Automatic,Estate,Octane,1500,52800,1361000
+Toyota Fielder X Limited. 2012,Toyota,Fielder,2012,Automatic,Estate,Octane,1500,57369,1355000
+Toyota Wish Model- 2013,Toyota,Wish,2013,Automatic,Estate,Octane,1800,37000,2780000
+Toyota Fielder G Silver PUSH SENSOR 2014,Toyota,Fielder,2014,Automatic,Estate,Octane,1500,188393,1660000
+Toyota Hiace Gl All Auto 2016,Toyota,Hiace,2016,Automatic,Estate,Octane,2000,65000,2370000
+Nissan X-Trail Mood. premium 2016,Nissan,X-Trail,2016,Automatic,Estate,Octane,2000,42000,4500000
+Toyota Starlet reflect 1995,Toyota,Starlet,1995,Automatic,Hatchback,Octane,1500,143220,450000
+Maruti Suzuki Alto 800 A/C Ok 2002,Maruti Suzuki,Alto 800,2002,Manual,Hatchback,Octane,800,57000,180000
+Toyota ist G Grade Oil Run 2004,Toyota,ist,2004,Automatic,Hatchback,Octane,1300,69000,720000
+Toyota Passo super fresh 2004,Toyota,Passo,2004,Automatic,Hatchback,Octane,1000,684552,545000
+Toyota RunX very nice condition 2004,Toyota,RunX,2004,Automatic,Hatchback,Octane,1500,80000,880000
+Nissan Tiida Super Condition 2004,Nissan,Tiida,2004,Automatic,Hatchback,Octane,1500,65000,860000
+Toyota Raum G-Edition 2006,Toyota,Raum,2006,Automatic,Hatchback,Octane,1500,58652,985000
+Suzuki Swift Vxi 2007,Suzuki,Swift,2007,Manual,Hatchback,Octane,1300,56975,460000
+Chevrolet Spark 1.0 2008,Chevrolet,Spark,2008,Manual,Hatchback,Octane,1000,45000,400000
+Toyota Vitz RS Push Octane1.5 2009,Toyota,Vitz,2009,Automatic,Hatchback,Octane,1500,60000,880000
+Toyota Vitz Push Start 2010,Toyota,Vitz,2010,Automatic,Hatchback,Octane,1000,56192,870000
+Toyota Vitz Super Fresh Octane 2010,Toyota,Vitz,2010,Automatic,Hatchback,Octane,1300,51504,950000
+Suzuki Alto Ex Japan 2011,Suzuki,Alto,2011,Automatic,Hatchback,Octane,660,23500,590000
+Toyota Axio X Fielder 2011,Toyota,Axio,2011,Automatic,Hatchback,Octane,1500,47000,1370000
+Toyota Ractis G Push Start 2011,Toyota,Ractis,2011,Automatic,Hatchback,Octane,1500,56000,1190000
+Toyota Vitz G Edition 2011,Toyota,Vitz,2011,Automatic,Hatchback,Octane,1329,71000,1050000
+Toyota Vitz G PKG 2011,Toyota,Vitz,2011,Automatic,Hatchback,Octane,1300,37850,1095000
+Toyota Vitz Jewela 2011,Toyota,Vitz,2011,Automatic,Hatchback,Octane,1300,86000,925000
+Toyota Vitz G 2012,Toyota,Vitz,2012,Automatic,Hatchback,Octane,1000,56248,985000
+Toyota Vitz G 2012,Toyota,Vitz,2012,Automatic,Hatchback,Octane,1300,48500,985000
+Toyota Vitz S 2012,Toyota,Vitz,2012,Automatic,Hatchback,Octane,1300,45000,1200000
+Toyota Vitz 2009,Toyota,Vitz,2015,Automatic,Hatchback,Octane,1000,73000,699000
+Suzuki Swift Limited Edition 2017,Suzuki,Swift,2017,Manual,Hatchback,Octane,1300,26000,850000
+Toyota v6 1995,Toyota,Other Model,1995,Automatic,MPV,Octane,3500,112255,1200000
+Mitsubishi Pajero Mini 1995,Mitsubishi,Pajero,1995,Manual,MPV,Octane,1100,73000,310000
+Honda CR-V Red Colour 1998,Honda,CR-V,1998,Automatic,MPV,Octane,2000,78671,830000
+Honda HR-V G 2002,Honda,HR-V,2002,Automatic,MPV,Octane,1590,68000,860000
+Toyota Prado Land Cruiser 2004,Toyota,Prado,2004,Automatic,MPV,Octane,2700,125000,1850000
+Toyota Alphard Sports Edition 2005,Toyota,Alphard,2005,Automatic,MPV,Octane,2400,45000,1995000
+Toyota Noah S 2005,Toyota,Noah,2005,Automatic,MPV,Octane,2000,82310,1200000
+Toyota Passo city 2009,Toyota,Passo,2009,Automatic,MPV,Octane,1500,68320,1275000
+Hyundai H1 super fresh octane 2010,Hyundai,H1,2010,Automatic,MPV,Octane,2400,65432,1580000
+Suzuki 1200 2011,Suzuki,Other Model,2011,Manual,MPV,Octane,1200,89652,520000
+Suzuki Ritz 2011,Suzuki,Other Model,2011,Manual,MPV,Octane,1200,89653,520000
+Toyota Noah si 2012,Toyota,Noah,2012,Automatic,MPV,Octane,2000,48652,2370000
+Toyota Noah si 2013,Toyota,Noah,2013,Automatic,MPV,Octane,2000,48000,2350000
+Nissan SUCCESS 2013,Nissan,Other Model,2013,Manual,MPV,Octane,1500,58000,1100000
+Toyota Hiace GL 2015,Toyota,Hiace,2015,Automatic,MPV,Octane,2000,31950,2295000
+Toyota Noah AMBULANCE 2015,Toyota,Noah,2015,Automatic,MPV,Octane,2000,45000,1480000
+Honda Vezel 2015,Honda,Vezel,2015,Automatic,MPV,Octane,1500,52000,2050000
+Toyota Hiace DX DUAL AC 2016,Toyota,Hiace,2016,Automatic,MPV,Octane,2000,8000,2580000
+Toyota Hiace SUPER GL PUSH LED 2016,Toyota,Hiace,2016,Automatic,MPV,Octane,2000,90000,3220000
+Toyota Hiace TRH 200 2016,Toyota,Hiace,2016,Automatic,MPV,Octane,2000,87000,2380000
+Toyota Hiace Dual AC GL Silver 2016,Toyota,Hiace,2016,Automatic,MPV,Octane,2000,20005,2580000
+Toyota Hiace DX 2016,Toyota,Hiace,2016,Automatic,MPV,Octane,2000,75000,2350000
+Toyota Hiace SUPER GL DUAL AC 2016,Toyota,Hiace,2016,Automatic,MPV,Octane,2000,45557,2850000
+Toyota Hiace GL 2016,Toyota,Hiace,2016,Automatic,MPV,Octane,2000,39500,2450000
+Toyota Voltz 2012,Toyota,Voltz,2012,Automatic,null,Octane,1000,45855,1180000
+Toyota Mark II S package 1997,Toyota,Mark II,1997,Automatic,Saloon,Octane,1500,55000,850000
+Toyota MR2 তেলে চালিত 1997,Toyota,MR2,1997,Automatic,Saloon,Octane,1500,55000,850000
+Toyota Starlet 1994,Toyota,Starlet,1998,Manual,Saloon,Octane,1331,179724,300000
+Honda City Octane Driven 2000,Honda,City,2000,Automatic,Saloon,Octane,1500,75000,490000
+Toyota Corolla Octane Driven 2003,Toyota,Corolla,2003,Automatic,Saloon,Octane,1500,118164,910000
+Nissan Sunny marun clour 2003,Nissan,Sunny,2003,Automatic,Saloon,Octane,1300,89000,490000
+Toyota Corolla x model 2004,Toyota,Corolla,2004,Automatic,Saloon,Octane,1500,60000,948000
+Toyota Mark II GX110 (35th) 2004,Toyota,Mark II,2004,Automatic,Saloon,Octane,2000,90000,1285000
+Nissan Sunny 2004,Nissan,Sunny,2004,Automatic,Saloon,Octane,1500,78554,655000
+BMW 320i 2005,BMW,320i,2005,Automatic,Saloon,Octane,2000,62000,2499999
+Toyota Allion G PKG 2005,Toyota,Allion,2005,Automatic,Saloon,Octane,1500,87500,1180000
+Toyota Allion option auto 2005,Toyota,Allion,2005,Automatic,Saloon,Octane,1500,69000,1145000
+Honda Civic very nice condition 2005,Honda,Civic,2005,Automatic,Saloon,Octane,1500,78000,790000
+Toyota Premio FL 2005,Toyota,Premio,2005,Automatic,Saloon,Octane,2000,24600,1250000
+Toyota RAV4 RAV 4 2005,Toyota,RAV4,2005,Automatic,Saloon,Octane,1800,76200,1565000
+Toyota Allion Standard package 2006,Toyota,Allion,2006,Automatic,Saloon,Octane,1500,84313,1330000
+Toyota Allion G 2006,Toyota,Allion,2006,Automatic,Saloon,Octane,1500,69854,1330000
+Nissan Bluebird sylphy 2006,Nissan,Bluebird,2006,Automatic,Saloon,Octane,1500,77000,1050000
+Mitsubishi GLX very nice condition 2006,Mitsubishi,GLX,2006,Automatic,Saloon,Octane,1500,64000,750000
+Toyota Premio G Pkg 2006,Toyota,Premio,2006,Automatic,Saloon,Octane,1500,65850,1350000
+Maruti Suzuki WagonR manual gear 2006,Maruti Suzuki,WagonR,2006,Automatic,Saloon,Octane,1200,89000,370000
+Toyota Premio F-super fresh octane 2007,Toyota,Premio,2007,Automatic,Saloon,Octane,1500,68543,1660000
+Toyota Premio Radewen 2007,Toyota,Premio,2007,Automatic,Saloon,Octane,1500,61000,1530000
+Toyota Premio G 2008,Toyota,Premio,2008,Automatic,Saloon,Octane,1500,45623,1650000
+Toyota Premio F 2008,Toyota,Premio,2008,Automatic,Saloon,Octane,1500,67000,1660000
+Toyota Axio x 2009,Toyota,Axio,2009,Automatic,Saloon,Octane,1500,67300,1195000
+Toyota Premio G SUPER PUSH 2009,Toyota,Premio,2009,Automatic,Saloon,Octane,1500,75200,1825000
+Toyota Premio F 2009,Toyota,Premio,2009,Automatic,Saloon,Octane,1500,41000,1670000
+Nissan Sunny G- 2009,Nissan,Sunny,2009,Automatic,Saloon,Octane,1300,74812,820000
+Nissan Tiida 2005,Nissan,Tiida,2009,Automatic,Saloon,Octane,1500,60015,785000
+Toyota Allion A 15 G+ 2010,Toyota,Allion,2010,Automatic,Saloon,Octane,1500,62400,1720000
+Toyota Allion A15 G+ 2010,Toyota,Allion,2010,Automatic,Saloon,Octane,1500,52202,1725000
+Toyota Axio super fresh 2010,Toyota,Axio,2010,Automatic,Saloon,Octane,1500,62425,1275000
+Mitsubishi Lancer EX Rockford GLS 2010,Mitsubishi,Lancer,2010,Automatic,Saloon,Octane,1500,68000,1190000
+Toyota Premio NEW SHAPE 2010,Toyota,Premio,2010,Automatic,Saloon,Octane,1500,72100,1955000
+Hyundai Sonata 2010,Hyundai,Sonata,2010,Automatic,Saloon,Octane,2000,76000,1850000
+Toyota Vitz 2010,Toyota,Vitz,2010,Automatic,Saloon,Octane,1000,65000,720000
+Toyota Axio G Ltd 2011,Toyota,Axio,2011,Automatic,Saloon,Octane,1500,47000,1375000
+Toyota Axio G 2011,Toyota,Axio,2011,Automatic,Saloon,Octane,1500,50000,1355000
+Toyota Axio G ltd 2011,Toyota,Axio,2011,Automatic,Saloon,Octane,1500,38550,1295000
+Toyota Axio X Hid 2011,Toyota,Axio,2011,Automatic,Saloon,Octane,1500,70206,1350000
+Toyota Passo sette g edition 2011,Toyota,Passo,2011,Automatic,Saloon,Octane,1500,32343,1390000
+Toyota Premio EX 2011,Toyota,Premio,2011,Automatic,Saloon,Octane,1500,43000,1980000
+Toyota Premio FL-HID. 2011,Toyota,Premio,2011,Automatic,Saloon,Octane,1500,68289,1895000
+Toyota Premio G Superior 2011,Toyota,Premio,2011,Automatic,Saloon,Octane,1500,62000,1760000
+Toyota Sienta 7seat+door power 2011,Toyota,Sienta,2011,Automatic,Saloon,Octane,1500,49536,1428000
+Hyundai Sonata sunroof 2011,Hyundai,Sonata,2011,Automatic,Saloon,Octane,2000,42312,1950000
+Suzuki Swift D-ZIRE 2011,Suzuki,Swift,2011,Manual,Saloon,Octane,1300,45000,750000
+Suzuki Swift Trim 2011,Suzuki,Swift,2011,Manual,Saloon,Octane,1300,50000,660000
+Toyota Vitz rx 2011,Toyota,Vitz,2011,Automatic,Saloon,Octane,1320,32432,1360000
+Hyundai Accent blue 2012,Hyundai,Accent,2012,Automatic,Saloon,Octane,1500,54100,1020000
+"Hyundai Accent Blue,Model- 2012",Hyundai,Accent,2012,Automatic,Saloon,Octane,1400,37000,1280000
+Hyundai Accent blue 2012,Hyundai,Accent,2012,Automatic,Saloon,Octane,1400,52345,1230000
+Hyundai Accent BLUE G PKG 2012,Hyundai,Accent,2012,Automatic,Saloon,Octane,1500,35850,1250000
+"Toyota Auris s"" stails 2012",Toyota,Auris,2012,Automatic,Saloon,Octane,1500,48278,1475000
+Toyota Axio super fresh octane 2012,Toyota,Axio,2012,Automatic,Saloon,Octane,1331,43212,1460000
+Toyota Axio G- Edition 2012,Toyota,Axio,2012,Automatic,Saloon,Octane,1500,58278,1375000
+Toyota Axio G Push Start 2012,Toyota,Axio,2012,Automatic,Saloon,Octane,1500,40000,1465000
+Honda Insight G Hybrid 2012,Honda,Insight,2012,Automatic,Saloon,Octane,1500,46000,1443000
+Toyota Premio G SUPER PUSH 2012,Toyota,Premio,2012,Automatic,Saloon,Octane,1500,63200,2090000
+Toyota Premio G supar 2012,Toyota,Premio,2012,Automatic,Saloon,Octane,1500,52000,2050000
+Toyota Allion G Edition 2013,Toyota,Allion,2013,Automatic,Saloon,Octane,1500,61000,1950000
+Ford Fiesta 2013,Ford,Fiesta,2013,Automatic,Saloon,Octane,1499,27000,8500000
+Toyota Premio G Superior 2013,Toyota,Premio,2013,Automatic,Saloon,Octane,1500,1500,2065000
+Toyota Premio G-Superior 2013,Toyota,Premio,2013,Automatic,Saloon,Octane,1500,45534,2290000
+Toyota Allion G PKG HID LTD 2014,Toyota,Allion,2014,Automatic,Saloon,Octane,1500,46500,2095000
+Toyota Allion g plus 2014,Toyota,Allion,2014,Automatic,Saloon,Octane,1500,36000,2150000
+Toyota Allion Super fresh-A15 2014,Toyota,Allion,2014,Automatic,Saloon,Octane,1500,48452,2095000
+Toyota Allion G. Plus 2014,Toyota,Allion,2014,Automatic,Saloon,Octane,1500,42000,2120000
+Toyota Auris PUSH HID LTD 2014,Toyota,Auris,2014,Automatic,Saloon,Octane,1500,61000,1650000
+Toyota Premio FEX Package 2014,Toyota,Premio,2014,Automatic,Saloon,Octane,1500,37521,2300000
+Toyota Premio G supar 2014,Toyota,Premio,2014,Automatic,Saloon,Octane,1500,55000,2299000
+Toyota Premio F Ex 2014,Toyota,Premio,2014,Automatic,Saloon,Octane,1500,48277,2265000
+Honda Vezel z package 2014,Honda,Vezel,2014,Automatic,Saloon,Octane,1500,35765,2110000
+Toyota Yaris E. Series 2014,Toyota,Yaris,2014,Automatic,Saloon,Octane,1300,35000,1380000
+Toyota Yaris E. Series 2014,Toyota,Yaris,2014,Automatic,Saloon,Octane,1300,33000,1380000
+Hyundai Accent Blue Sunroof (New) 2015,Hyundai,Accent,2015,Automatic,Saloon,Octane,1400,217,1870000
+Toyota Allion 3 Months Used 2015,Toyota,Allion,2015,Automatic,Saloon,Octane,1500,77000,2395000
+Toyota Allion G Plus Octane drive 2015,Toyota,Allion,2015,Automatic,Saloon,Octane,1500,55000,2290000
+Mitsubishi Attrage 1.3 2015,Mitsubishi,Attrage,2015,Automatic,Saloon,Octane,1300,29000,980000
+Toyota Axio G package BANK LONE 2015,Toyota,Axio,2015,Automatic,Saloon,Octane,1500,35000,880000
+Toyota Axio এক্স (ব্যাংক লোন) 2015,Toyota,Axio,2015,Automatic,Saloon,Octane,1500,35000,880000
+Toyota Axio X SILVER DHAKA AP 4 2015,Toyota,Axio,2015,Automatic,Saloon,Octane,1500,63932,1770000
+Toyota Axio X 2015,Toyota,Axio,2015,Automatic,Saloon,Octane,1500,77792,1800000
+Toyota Premio F EX PACKAGE 2015,Toyota,Premio,2015,Automatic,Saloon,Octane,1500,37000,2400000
+Toyota Premio F EX Seat Power 2015,Toyota,Premio,2015,Automatic,Saloon,Octane,1500,42000,2350000
+Toyota Premio Seat Power IDOL Stop 2015,Toyota,Premio,2015,Automatic,Saloon,Octane,1500,42120,2335000
+Toyota Premio G SUPERIOR 2015,Toyota,Premio,2015,Automatic,Saloon,Octane,1500,36700,2395000
+Toyota Premio G supar 2015,Toyota,Premio,2015,Automatic,Saloon,Octane,1500,52000,2399000
+Toyota Premio EX G PKG Bank Loan 2015,Toyota,Premio,2015,Automatic,Saloon,Octane,1500,69000,1650000
+Toyota Premio G Superior EX Octane 2015,Toyota,Premio,2015,Automatic,Saloon,Octane,1500,47312,2380000
+"Toyota Allion G,OLD SHAPE 2016",Toyota,Allion,2016,Automatic,Saloon,Octane,1500,14568,2730000
+"Toyota Allion G PACKAGE, PEARL 2016",Toyota,Allion,2016,Automatic,Saloon,Octane,1500,29800,2845000
+Mazda Axela 2011,Mazda,Axela,2016,Automatic,Saloon,Octane,1500,50460,1375000
+Toyota Axio Non Hybrid 2016,Toyota,Axio,2016,Automatic,Saloon,Octane,1500,71000,1900000
+Honda City NON HYBRID BRAND NEW 2016,Honda,City,2016,Automatic,Saloon,Octane,1500,54032,1795000
+Honda Civic Sunroof 2016,Honda,Civic,2016,Automatic,Saloon,Octane,1500,27000,2970000
+Toyota Esquire Noah 2016,Toyota,Esquire,2016,Automatic,Saloon,Octane,2000,25000,3680000
+Toyota Premio F-EX 2016,Toyota,Premio,2016,Automatic,Saloon,Octane,1500,32350,2950000
+Toyota Premio F Ex Package 2016,Toyota,Premio,2016,Automatic,Saloon,Octane,1500,27000,2720000
+Toyota Premio F Ex Package 2016,Toyota,Premio,2016,Automatic,Saloon,Octane,1500,36217,2820000
+Toyota Premio Fl 2016,Toyota,Premio,2016,Automatic,Saloon,Octane,1500,42000,3220000
+Toyota Premio Ex package 2016,Toyota,Premio,2016,Automatic,Saloon,Octane,1500,36458,2950000
+Toyota Premio F 2016,Toyota,Premio,2016,Automatic,Saloon,Octane,1500,27147,2750000
+Proton Satria 2016,Proton,Satria,2016,Automatic,Saloon,Octane,1500,35218,1800000
+Toyota Allion G LED 2017,Toyota,Allion,2017,Automatic,Saloon,Octane,1500,43000,2800000
+Toyota Allion A-15 2017,Toyota,Allion,2017,Automatic,Saloon,Octane,1500,30000,2700000
+Toyota Allion Mica Blue G Pkg 2017,Toyota,Allion,2017,Automatic,Saloon,Octane,1500,14500,3050000
+Toyota Allion G PLUS 2017,Toyota,Allion,2017,Automatic,Saloon,Octane,1500,22948,3050000
+Toyota Allion G Package 2017,Toyota,Allion,2017,Automatic,Saloon,Octane,1500,47412,3130000
+Toyota Axio Wxb Non Hybrid 2017,Toyota,Axio,2017,Automatic,Saloon,Octane,1500,11598,2600000
+Toyota C-HR CHR TURBO OCTANE 2017,Toyota,C-HR,2017,Automatic,Saloon,Octane,1331,36500,2860000
+Honda Civic SunRoof Turbo engine 2017,Honda,Civic,2017,Automatic,Saloon,Octane,1500,17000,3195000
+Toyota Premio F Ex PKG. 2017,Toyota,Premio,2017,Automatic,Saloon,Octane,1500,28277,3065000
+Toyota Premio F Ex PKG. 2017,Toyota,Premio,2017,Automatic,Saloon,Octane,1500,23951,3095000
+Toyota Premio f ex package 2017,Toyota,Premio,2017,Automatic,Saloon,Octane,1500,25000,2985000
+Toyota Premio Ex 2017,Toyota,Premio,2017,Automatic,Saloon,Octane,1500,56000,3400000
+Toyota Premio Ex Pkg 2017,Toyota,Premio,2017,Automatic,Saloon,Octane,1500,19000,3250000
+Toyota Premio 2014,Toyota,Premio,2017,Automatic,Saloon,Octane,1500,43000,2450000
+Toyota Premio 2015,Toyota,Premio,2017,Automatic,Saloon,Octane,1500,80000,2480000
+Toyota Premio F-EX 2017,Toyota,Premio,2017,Automatic,Saloon,Octane,1500,15000,3400000
+Toyota Allion G LED/308 KM 2018,Toyota,Allion,2018,Automatic,Saloon,Octane,1500,308,3150000
+Toyota Allion G 2018,Toyota,Allion,2018,Automatic,Saloon,Octane,1500,30000,3000000
+Toyota Allion G/Black Push 2018,Toyota,Allion,2018,Automatic,Saloon,Octane,1500,32200,3150000
+Mercedes-Benz C-Class C-160 2018,Mercedes-Benz,C-Class,2018,Automatic,Saloon,Octane,1600,2657,7250000
+Honda CR-V Ex Masterpiece/Red 2018,Honda,CR-V,2018,Automatic,Saloon,Octane,1500,10739,5450000
+Toyota Premio Ex AP 5 2018,Toyota,Premio,2018,Automatic,Saloon,Octane,1500,19000,3680000
+Toyota Premio FL 2018,Toyota,Premio,2018,Automatic,Saloon,Octane,1500,23000,3280000
+Toyota Premio Fl Pkg 2018,Toyota,Premio,2018,Automatic,Saloon,Octane,1500,25000,3430000
+Toyota Premio F-EX PKG 2018,Toyota,Premio,2018,Automatic,Saloon,Octane,1500,23000,3550000
+Toyota Premio F Ex/Pearl Point 5 2018,Toyota,Premio,2018,Automatic,Saloon,Octane,1500,12975,3500000
+Toyota Premio Ex 2019,Toyota,Premio,2019,Automatic,Saloon,Octane,1500,5000,3800000
+Toyota Premio Ex Brand 2019,Toyota,Premio,2019,Automatic,Saloon,Octane,1500,22,3770000
+Toyota Premio Ex Mica Blue 2019,Toyota,Premio,2019,Automatic,Saloon,Octane,1500,6500,3900000
+Toyota Premio Ex Mica Blue 2019,Toyota,Premio,2019,Automatic,Saloon,Octane,1500,7000,3900000
+Toyota Premio 2017,Toyota,Premio,2019,Automatic,Saloon,Octane,1500,36000,2899999
+Toyota Premio Bronze F EX 2019,Toyota,Premio,2019,Automatic,Saloon,Octane,1500,17000,3799999
+Toyota Premio F Ex/Wine 2019,Toyota,Premio,2019,Automatic,Saloon,Octane,1500,6000,3740000
+Toyota Premio Mica Blue F-EX 2019,Toyota,Premio,2019,Automatic,Saloon,Octane,1500,8785,3890000
+Toyota Sienta 2013,Toyota,Sienta,2019,Automatic,Saloon,Octane,1500,30727,1600000
+Toyota Premio 000KM SSSS Point 2020,Toyota,Premio,2020,Automatic,Saloon,Octane,1500,6,3880000
+Toyota RAV4 SunRoof 1999,Toyota,RAV4,1999,Automatic,SUV / 4x4,Octane,2000,55000,850000
+Honda CR-V super fresh 2000,Honda,CR-V,2000,Automatic,SUV / 4x4,Octane,2000,68452,985000
+Toyota RAV4 L Octane driven 2000,Toyota,RAV4,2000,Automatic,SUV / 4x4,Octane,1800,78000,1290000
+Toyota Hilux 1997,Toyota,Hilux,2001,Manual,SUV / 4x4,Octane,3400,120000,1900000
+Toyota Noah very nice condition 2003,Toyota,Noah,2003,Automatic,SUV / 4x4,Octane,2000,80000,965000
+Mitsubishi Pajero Nativa 2003,Mitsubishi,Pajero,2003,Automatic,SUV / 4x4,Octane,2972,90000,1395000
+Toyota Prado GX Ltd. 2003,Toyota,Prado,2003,Automatic,SUV / 4x4,Octane,2700,75201,2800000
+Toyota Harrier Lexus 2004,Toyota,Harrier,2004,Automatic,SUV / 4x4,Octane,2400,65600,2050000
+Mitsubishi Pajero Exceed 2004,Mitsubishi,Pajero,2004,Automatic,SUV / 4x4,Octane,3000,73254,2600000
+Nissan X-Trail এস পেকেজ 2004,Nissan,X-Trail,2004,Automatic,SUV / 4x4,Octane,2000,62000,1295000
+Honda CR-V silver Golden 2005,Honda,CR-V,2005,Automatic,SUV / 4x4,Octane,2400,89000,1250000
+Toyota RAV4 G Edition Push 2005,Toyota,RAV4,2005,Automatic,SUV / 4x4,Octane,2362,54000,1650000
+Toyota RAV4 OCTEN DRIVE 2006,Toyota,RAV4,2006,Automatic,SUV / 4x4,Octane,2400,51000,1675000
+Toyota RAV4 SunRoof New Shape 2006,Toyota,RAV4,2006,Automatic,SUV / 4x4,Octane,2400,35000,1850000
+Toyota Rush hard jeep 2006,Toyota,Rush,2006,Automatic,SUV / 4x4,Octane,1500,88650,1120000
+Nissan Dualis With Sunroof 2007,Nissan,Dualis,2007,Automatic,SUV / 4x4,Octane,2000,67583,1380000
+Toyota Rush g 2007,Toyota,Rush,2007,Automatic,SUV / 4x4,Octane,1500,57650,1250000
+Toyota Prado Tx Limited. 2009,Toyota,Prado,2009,Automatic,SUV / 4x4,Octane,2700,65214,5875000
+Toyota RAV4 2003,Toyota,RAV4,2009,Automatic,SUV / 4x4,Octane,2000,56000,1150000
+Toyota Rush G 2009,Toyota,Rush,2009,Automatic,SUV / 4x4,Octane,1500,47521,1260000
+Nissan X-Trail 7 Seat 2009,Nissan,X-Trail,2009,Automatic,SUV / 4x4,Octane,2000,52000,1880000
+Nissan Juke — G Urban Selection 2010,Nissan,Juke,2010,Automatic,SUV / 4x4,Octane,1500,18404,1480000
+Mitsubishi Outlandar Roadest 7 seat 2010,Mitsubishi,Outlandar,2010,Automatic,SUV / 4x4,Octane,2000,53000,1950000
+Mitsubishi Outlandar SUNROOF 7 SEAT 2010,Mitsubishi,Outlandar,2010,Automatic,SUV / 4x4,Octane,2000,68211,2165000
+Mitsubishi Outlander 7 SEAT 2010,Mitsubishi,Outlander,2010,Automatic,SUV / 4x4,Octane,2000,66500,2250000
+Hyundai Tucson 2010,Hyundai,Tucson,2010,Automatic,SUV / 4x4,Octane,2000,62000,1650000
+Nissan X-Trail X Trail 2010,Nissan,X-Trail,2010,Automatic,SUV / 4x4,Octane,2000,63200,1950000
+Nissan Juke all auto 2011,Nissan,Juke,2011,Automatic,SUV / 4x4,Octane,1500,54087,1620000
+Mitsubishi RVR 2010,Mitsubishi,RVR,2011,Automatic,SUV / 4x4,Octane,1800,35000,1850000
+Hyundai Tucson Sunroof 2011,Hyundai,Tucson,2011,Automatic,SUV / 4x4,Octane,2000,55000,1850000
+Nissan X-Trail octane 2011,Nissan,X-Trail,2011,Automatic,SUV / 4x4,Octane,2000,52436,2260000
+Honda CR-V g edition 2012,Honda,CR-V,2012,Automatic,SUV / 4x4,Octane,2000,32435,2850000
+Nissan X-Trail G 2012,Nissan,X-Trail,2012,Automatic,SUV / 4x4,Octane,2000,33000,2340000
+Toyota Prado TX 2013,Toyota,Prado,2013,Automatic,SUV / 4x4,Octane,2700,47000,7290000
+Toyota Harrier Advance Premium 2014,Toyota,Harrier,2014,Automatic,SUV / 4x4,Octane,2000,46121,5150000
+Toyota Harrier sunroof 2014,Toyota,Harrier,2014,Automatic,SUV / 4x4,Octane,2000,14324,4850000
+Toyota Harrier Adv. Premium 2014,Toyota,Harrier,2014,Automatic,SUV / 4x4,Octane,2000,47700,4650000
+Toyota Harrier BLACK ELEGANCE PKG 2014,Toyota,Harrier,2014,Automatic,SUV / 4x4,Octane,2000,55870,5400000
+Toyota Land Cruiser Prado TX LTD 2014,Toyota,Land Cruiser,2014,Automatic,SUV / 4x4,Octane,2700,15268,8500000
+Toyota Prado tx 2014,Toyota,Prado,2014,Automatic,SUV / 4x4,Octane,2700,35000,7400000
+Honda Vezel Non Hybrid 2014,Honda,Vezel,2014,Automatic,SUV / 4x4,Octane,1500,35500,2100000
+Honda Vezel Z 2014,Honda,Vezel,2014,Automatic,SUV / 4x4,Octane,1500,41500,2090000
+Honda Vezel Rs Pakeg 2014,Honda,Vezel,2014,Automatic,SUV / 4x4,Octane,1500,28000,2150000
+Honda Vezel S 2014,Honda,Vezel,2014,Automatic,SUV / 4x4,Octane,1500,60735,2150000
+Honda Vezel S Package 2014,Honda,Vezel,2014,Automatic,SUV / 4x4,Octane,1500,37117,2275000
+Honda Vezel Black IDLING STOP 2014,Honda,Vezel,2014,Automatic,SUV / 4x4,Octane,1500,6170,2430000
+Nissan X-Trail 7 seater 2014,Nissan,X-Trail,2014,Automatic,SUV / 4x4,Octane,2000,43651,3250000
+Toyota Harrier Advance Premium 2015,Toyota,Harrier,2015,Automatic,SUV / 4x4,Octane,2000,45000,5500000
+Toyota Harrier Advance Premium 2015,Toyota,Harrier,2015,Automatic,SUV / 4x4,Octane,2000,21000,5590000
+Toyota Harrier ADVANCE PREMIUM -2 2015,Toyota,Harrier,2015,Automatic,SUV / 4x4,Octane,2000,29356,5995000
+Nissan Juke 2011,Nissan,Juke,2015,Automatic,SUV / 4x4,Octane,1500,54000,1270000
+Honda Vezel S 2015,Honda,Vezel,2015,Automatic,SUV / 4x4,Octane,1500,55647,2185000
+Honda Vezel S 2015,Honda,Vezel,2015,Automatic,SUV / 4x4,Octane,1500,43135,2225000
+Mercedes-Benz GLA-Class Leather 2016,Mercedes-Benz,GLA-Class,2016,Automatic,SUV / 4x4,Octane,1600,10000,5250000
+Haval H2 Special Edition 2016,Haval,H2,2016,Automatic,SUV / 4x4,Octane,1500,55000,2250000
+Nissan Juke 2011,Nissan,Juke,2016,Automatic,SUV / 4x4,Octane,1500,69000,1220000
+Lexus RX 200T 2016,Lexus,RX,2016,Automatic,SUV / 4x4,Octane,2000,39714,10200000
+Hyundai Santa Fe PENAROMIC SUNROOF 2016,Hyundai,Santa Fe,2016,Automatic,SUV / 4x4,Octane,2400,43000,3780000
+Nissan X-Trail 7 Seat / Sunroof 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,Octane,2000,54434,4150000
+Nissan X-Trail NT32 4wd SR Non hyb 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,Octane,2000,67000,4650000
+Toyota Hiace Super GL/2 Door PWR 2017,Toyota,Hiace,2017,Automatic,SUV / 4x4,Octane,2000,33000,3380000
+Honda H-RV G 2019,Honda,H-RV,2019,Automatic,SUV / 4x4,Octane,1500,9000,3290000
+Nissan X-Trail Non Hybrid 2020,Nissan,X-Trail,2020,Automatic,SUV / 4x4,Octane,2000,11000,5295000
+Honda CR-V EX Masterpiece 2021,Honda,CR-V,2021,Automatic,SUV / 4x4,Octane,1500,325,5990000
+Toyota Fielder AXIO 2011,Toyota,Fielder,2011,Automatic,Estate,"Octane, LPG",1500,65000,1215000
+Toyota Fielder X fresh condition 2011,Toyota,Fielder,2011,Automatic,Estate,"Octane, LPG",1500,58250,1199000
+Toyota Vitz Key Start 2008,Toyota,Vitz,2008,Automatic,Hatchback,"Octane, LPG",1000,75000,700000
+Toyota Vitz G PKG 2011,Toyota,Vitz,2011,Automatic,Hatchback,"Octane, LPG",1320,57580,1095000
+Toyota Noah X 2004,Toyota,Noah,2004,Automatic,MPV,"Octane, LPG",2000,85320,999999
+Toyota Corolla 100 1993,Toyota,Corolla,1993,Automatic,Saloon,"Octane, LPG",1331,96000,390000
+Ford Ikon balak 2003,Ford,Ikon,2003,Automatic,Saloon,"Octane, LPG",1300,89653,340000
+Nissan Sunny এলপিজি&অকটেন 2003,Nissan,Sunny,2003,Automatic,Saloon,"Octane, LPG",1500,65000,670000
+Nissan Sunny সুপার সেলুন 2003,Nissan,Sunny,2003,Automatic,Saloon,"Octane, LPG",1500,60000,650000
+Toyota Allion LPG 2004,Toyota,Allion,2004,Automatic,Saloon,"Octane, LPG",1500,61234,1320000
+Toyota Probox black 2004,Toyota,Probox,2004,Automatic,Saloon,"Octane, LPG",1500,96000,530000
+Toyota Allion A15 G Edition LPG 2006,Toyota,Allion,2006,Automatic,Saloon,"Octane, LPG",1500,65230,1345000
+Toyota Noah si smart 2010,Toyota,Noah,2010,Automatic,Saloon,"Octane, LPG",2000,53000,1895000
+Toyota Premio EX 2010,Toyota,Premio,2010,Automatic,Saloon,"Octane, LPG",1500,48000,1880000
+Toyota Allion G Edition 2011,Toyota,Allion,2011,Automatic,Saloon,"Octane, LPG",1500,86245,1820000
+Toyota Axio G 2011,Toyota,Axio,2011,Automatic,Saloon,"Octane, LPG",1500,62000,1310000
+Toyota Premio EX 2012,Toyota,Premio,2012,Automatic,Saloon,"Octane, LPG",1500,39000,2050000
+Toyota Axio G 2013,Toyota,Axio,2013,Automatic,Saloon,"Octane, LPG",1500,57285,1525000
+Toyota Axio G Push 2013,Toyota,Axio,2013,Automatic,Saloon,"Octane, LPG",1500,47800,1485000
+Toyota Premio G 2013,Toyota,Premio,2013,Automatic,Saloon,"Octane, LPG",1500,38400,2075000
+Toyota Land Cruiser VX 1995,Toyota,Land Cruiser,1995,Automatic,SUV / 4x4,"Octane, LPG",4500,85000,1745000
+Toyota Kluger V 2002,Toyota,Kluger,2002,Automatic,SUV / 4x4,"Octane, LPG",2400,70000,1650000
+Nissan Murano G Limited Edition 2005,Nissan,Murano,2005,Automatic,SUV / 4x4,"Octane, LPG",2500,42000,1950000
+Toyota RAV4 push start 2005,Toyota,RAV4,2005,Automatic,SUV / 4x4,"Octane, LPG",2362,63000,1590000
+Toyota Fielder G PACKAGE PURPLE 2014,Toyota,Fielder,2014,Automatic,Estate,"Octane, Other fuel type",1500,63000,1750000
+Mazda Axela 15S Package Blue 2014,Mazda,Axela,2014,Automatic,Saloon,"Octane, Other fuel type",1500,10000,2200000
+Mazda Axela 15S Package Red 2014,Mazda,Axela,2014,Automatic,Saloon,"Octane, Other fuel type",1500,111000,2150000
+Nissan X-Trail PEARL_20X_EMERGENCY 2014,Nissan,X-Trail,2014,Automatic,SUV / 4x4,"Octane, Other fuel type",2000,102000,3800000
+Toyota Aqua G Push Black 2013,Toyota,Other Model,2013,Automatic,Hatchback,Petrol,1500,42000,1115000
+Toyota Noah KR42 recondition 2005,Toyota,Noah,2005,Automatic,MPV,Petrol,1800,49000,1550000
+Toyota Alphard 2005,Toyota,Alphard,2007,Automatic,MPV,Petrol,2400,152874,3000000
+Toyota Hiace AMBULANCE 2015,Toyota,Hiace,2015,Automatic,MPV,Petrol,1500,60000,970000
+Toyota Hiace GL DUEL AC SILVER 2015,Toyota,Hiace,2015,Automatic,MPV,Petrol,2000,57000,2460000
+Toyota Hiace SUPER GL BLUE 2015,Toyota,Hiace,2015,Automatic,MPV,Petrol,2000,55000,2930000
+Toyota Noah X DELIGHT PLUS 2015,Toyota,Noah,2015,Automatic,MPV,Petrol,2000,75000,3030000
+Toyota Hiace DX GL WHITE 2016,Toyota,Hiace,2016,Automatic,MPV,Petrol,2000,57000,2320000
+Toyota Hiace DX SILVER 2016,Toyota,Hiace,2016,Automatic,MPV,Petrol,2000,59000,2320000
+Toyota Noah AMBULANCE 2016,Toyota,Noah,2016,Automatic,MPV,Petrol,1500,55000,1100000
+Toyota Noah SI GRADE PEARL 2016,Toyota,Noah,2016,Automatic,MPV,Petrol,2000,55000,3380000
+Toyota Noah X Wine 8 Seat 2016,Toyota,Noah,2016,Automatic,MPV,Petrol,2000,68000,3150000
+Toyota Hiace S GL DARK PRIME 2017,Toyota,Hiace,2017,Automatic,MPV,Petrol,2000,65000,3480000
+Toyota Hiace 2016,Toyota,Hiace,2016,Automatic,null,Petrol,2000,70000,2300000
+Toyota Hilux 1992,Toyota,Hilux,1992,Manual,null,Petrol,2200,202342,310000
+Isuzu 1995,Isuzu,Other Model,1995,Manual,null,Petrol,1800,86000,128000
+Toyota Allion G PLUS WINE 2016,Toyota,Allion,2016,Automatic,Saloon,Petrol,1500,33000,3090000
+Toyota Allion G WINE NS 4.5 2016,Toyota,Allion,2016,Automatic,Saloon,Petrol,1500,75000,2880000
+Toyota Premio F New Shape 2016,Toyota,Premio,2016,Automatic,Saloon,Petrol,1500,35568,2550000
+Toyota Premio F KEY 4 POINT 2017,Toyota,Premio,2017,Automatic,Saloon,Petrol,1500,25204,2800000
+Toyota Premio KEY START SILVER 2017,Toyota,Premio,2017,Automatic,Saloon,Petrol,1500,25000,2800000
+Toyota Premio FL-PKG 2017,Toyota,Premio,2017,Automatic,Saloon,Petrol,1500,42556,2930000
+Toyota Premio FL LED BLACK 2018,Toyota,Premio,2018,Automatic,Saloon,Petrol,1500,65000,3250000
+Toyota Prado LIMITED LOADED SUV 2014,Toyota,Prado,2014,Automatic,SUV / 4x4,Petrol,2700,29689,7500000
+Toyota Starlet Soleil 1992,Toyota,Other Model,1992,Automatic,Hatchback,"Petrol, CNG",1331,135773,350000
+Toyota Starlet 1989,Toyota,Starlet,1995,Manual,Hatchback,"Petrol, CNG",1331,169590,180000
+Toyota navana 1996,Toyota,Other Model,1996,Manual,MPV,"Petrol, CNG",1800,75000,375000
+Toyota Noah 2002,Toyota,Noah,2002,Automatic,MPV,"Petrol, CNG",1800,60000,980000
+Toyota Noah X 2003,Toyota,Noah,2003,Automatic,MPV,"Petrol, CNG",2000,690000,980000
+Toyota Noah খুব ভালো গাড়ি 2003,Toyota,Noah,2003,Automatic,MPV,"Petrol, CNG",1800,98000,650000
+Toyota Noah X - 2003,Toyota,Noah,2003,Automatic,MPV,"Petrol, CNG",2000,82842,935000
+Toyota Hiace DX 2004,Toyota,Hiace,2004,Automatic,MPV,"Petrol, CNG",2000,90000,650000
+Toyota Noah 2004,Toyota,Noah,2004,Automatic,MPV,"Petrol, CNG",1800,95000,795000
+Toyota Noah GL 2006,Toyota,Noah,2006,Automatic,MPV,"Petrol, CNG",1800,95000,1190000
+Toyota Noah 2003,Toyota,Noah,2009,Automatic,MPV,"Petrol, CNG",1800,90000,650000
+Nissan Sunny 1994,Nissan,Sunny,1994,Manual,null,"Petrol, CNG",1500,115000,120000
+Toyota Corolla 100 LX LIMITED 1992,Toyota,Corolla,1992,Automatic,Saloon,"Petrol, CNG",1331,160000,330000
+Toyota Corolla AE100 SE LIMITED 1992,Toyota,Corolla,1992,Automatic,Saloon,"Petrol, CNG",1500,1387,365000
+Toyota Corolla AE100 1992,Toyota,Corolla,1992,Automatic,Saloon,"Petrol, CNG",1500,95000,350000
+Toyota Corolla LX Limited 1994,Toyota,Corolla,1994,Automatic,Saloon,"Petrol, CNG",1500,150000,380000
+Mitsubishi Lancer Extra NCER Limited 1999,Mitsubishi,Lancer,1999,Automatic,Saloon,"Petrol, CNG",1500,70000,485000
+Toyota Allion A15 2001,Toyota,Allion,2001,Automatic,Saloon,"Petrol, CNG",1500,75000,995000
+Toyota Corsa 1996,Toyota,Corsa,2001,Manual,Saloon,"Petrol, CNG",1331,11000,380000
+Nissan Bluebird Urgent sell 2003,Nissan,Bluebird,2003,Automatic,Saloon,"Petrol, CNG",1500,30000,670000
+Toyota Corolla x 2004,Toyota,Corolla,2004,Automatic,Saloon,"Petrol, CNG",1300,72000,810000
+Toyota Corolla Silver color 2005,Toyota,Corolla,2005,Automatic,Saloon,"Petrol, CNG",1500,25000,950000
+Toyota Corolla X HID selection Ltd 2006,Toyota,Corolla,2006,Automatic,Saloon,"Petrol, CNG",1500,72000,1080000
+Chery Car nice condition 2006,Chery,Other Model,2006,Automatic,Saloon,"Petrol, CNG",1500,72180,230000
+Toyota Allion A15 2009,Toyota,Allion,2009,Automatic,Saloon,"Petrol, CNG",1500,92000,1550000
+Toyota Allion A15 2009,Toyota,Allion,2009,Automatic,Saloon,"Petrol, CNG",1500,75000,1695000
+Toyota Axio x 2010,Toyota,Axio,2010,Automatic,Saloon,"Petrol, CNG",1500,52341,1290000
+Toyota Axio x 2012,Toyota,Axio,2012,Automatic,Saloon,"Petrol, CNG",1500,45000,1495000
+Kia Sportage Sunroof Silver Color 2004,Kia,Sportage,2004,Automatic,SUV / 4x4,"Petrol, CNG",2700,68000,950000
+Nissan Carryboy pickup 2006,Nissan,Carryboy,2006,Manual,SUV / 4x4,"Petrol, CNG",2400,97000,750000
+Toyota Probox DX 2003,Toyota,Probox,2003,Automatic,Estate,"Petrol, CNG, Octane",1500,93000,580000
+Toyota Probox Succeed GL 2004,Toyota,Probox,2004,Automatic,Estate,"Petrol, CNG, Octane",1500,93000,640000
+Toyota Fielder X SUPER FRESH 2009,Toyota,Fielder,2009,Automatic,Estate,"Petrol, CNG, Octane",1500,89601,1165000
+Toyota Probox Fresh Condition 2012,Toyota,Probox,2012,Automatic,Estate,"Petrol, CNG, Octane",1500,63000,850000
+Toyota ist Japan 2004,Toyota,ist,2004,Automatic,Hatchback,"Petrol, CNG, Octane",1300,50000,765000
+Toyota RunX 2005,Toyota,RunX,2005,Automatic,Hatchback,"Petrol, CNG, Octane",1500,142000,895000
+Toyota Noah Townace Limo 1998,Toyota,Noah,1998,Automatic,MPV,"Petrol, CNG, Octane",2000,80000,699000
+Toyota TownAce Fresh Condition 2003,Toyota,TownAce,2003,Automatic,MPV,"Petrol, CNG, Octane",1800,99500,1090000
+Toyota Noah x edition 2004,Toyota,Noah,2004,Automatic,MPV,"Petrol, CNG, Octane",2000,75000,1175000
+Toyota Noah X 2005,Toyota,Noah,2005,Automatic,MPV,"Petrol, CNG, Octane",2000,78000,1145000
+Toyota Noah Kr 42 DX 2006,Toyota,Noah,2006,Automatic,MPV,"Petrol, CNG, Octane",1800,125000,1250000
+Suzuki APV 2007,Suzuki,APV,2007,Automatic,MPV,"Petrol, CNG, Octane",1600,78000,820000
+Toyota Hiace Fresh Condition 2010,Toyota,Hiace,2010,Automatic,MPV,"Petrol, CNG, Octane",2000,98500,1880000
+Toyota Noah lite ace 2010,Toyota,Noah,2010,Automatic,MPV,"Petrol, CNG, Octane",1500,95000,425000
+Toyota Noah X 2010,Toyota,Noah,2010,Automatic,MPV,"Petrol, CNG, Octane",2000,69000,1950000
+Toyota LiteAce delivery van 2011,Toyota,LiteAce,2011,Automatic,MPV,"Petrol, CNG, Octane",1500,100000,425000
+Toyota Noah X Si 2011,Toyota,Noah,2011,Automatic,MPV,"Petrol, CNG, Octane",2000,65000,2150000
+Toyota Noah X- SMART PUSH 2012,Toyota,Noah,2012,Automatic,MPV,"Petrol, CNG, Octane",2000,77000,2270000
+Toyota Hiace GL DUAL AC 2015,Toyota,Hiace,2015,Automatic,MPV,"Petrol, CNG, Octane",2000,42344,2200000
+Toyota Hiace GL DUAL AC 2015,Toyota,Hiace,2015,Automatic,MPV,"Petrol, CNG, Octane",2000,34567,2198000
+Toyota Hiace GL DUAL AC 2015,Toyota,Hiace,2015,Automatic,MPV,"Petrol, CNG, Octane",2000,45677,2199000
+Toyota Corolla EE 90 se limited 1990,Toyota,Corolla,1990,Manual,Saloon,"Petrol, CNG, Octane",1300,86000,195000
+Toyota Corolla ac limited 1992,Toyota,Corolla,1992,Automatic,Saloon,"Petrol, CNG, Octane",1500,100000,350000
+Toyota Corolla 111 1996,Toyota,Corolla,1996,Automatic,Saloon,"Petrol, CNG, Octane",1331,80000,385000
+Toyota Corolla xe saloon 1500cc 1997,Toyota,Corolla,1997,Automatic,Saloon,"Petrol, CNG, Octane",1500,95865,545000
+Toyota Sprinter SE Vintage Limited 1997,Toyota,Sprinter,1997,Automatic,Saloon,"Petrol, CNG, Octane",1500,190000,550000
+Toyota Corolla wargon 1999,Toyota,Corolla,1999,Automatic,Saloon,"Petrol, CNG, Octane",1331,96352,345000
+Toyota Corolla RIVIERE 2000,Toyota,Corolla,2000,Automatic,Saloon,"Petrol, CNG, Octane",1500,136000,670000
+Toyota Sprinter xe saloon vintage 2000,Toyota,Sprinter,2000,Automatic,Saloon,"Petrol, CNG, Octane",1500,50000,575000
+Toyota Allion silver A15 2002,Toyota,Allion,2002,Automatic,Saloon,"Petrol, CNG, Octane",1500,95000,965000
+Toyota Corolla X LTD Personal Car 2003,Toyota,Corolla,2003,Automatic,Saloon,"Petrol, CNG, Octane",1500,122850,855000
+Toyota Probox GL 2003,Toyota,Probox,2003,Automatic,Saloon,"Petrol, CNG, Octane",1500,65000,550000
+Toyota Probox dx 2003,Toyota,Probox,2003,Manual,Saloon,"Petrol, CNG, Octane",1500,240000,450555
+Toyota Allion Used 2004,Toyota,Allion,2004,Automatic,Saloon,"Petrol, CNG, Octane",1500,98500,1130000
+Toyota Corolla G PKG New Shape 2004,Toyota,Corolla,2004,Automatic,Saloon,"Petrol, CNG, Octane",1500,99750,945000
+Toyota Corolla G 2005,Toyota,Corolla,2005,Automatic,Saloon,"Petrol, CNG, Octane",1500,98500,1090000
+Toyota Premio F 2007,Toyota,Premio,2007,Automatic,Saloon,"Petrol, CNG, Octane",1500,98500,1490000
+Toyota Fielder Axio 2008,Toyota,Fielder,2008,Automatic,Saloon,"Petrol, CNG, Octane",1500,111000,1080000
+Toyota AXIO-G 2008,Toyota,Other Model,2008,Automatic,Saloon,"Petrol, CNG, Octane",1500,53000,1060000
+Toyota Axio x 2010,Toyota,Axio,2010,Automatic,Saloon,"Petrol, CNG, Octane",1500,65000,1290000
+Toyota Allion g 2011,Toyota,Allion,2011,Automatic,Saloon,"Petrol, CNG, Octane",1500,42100,1745000
+Toyota Allion G PKG BEIGE INTERIOR 2011,Toyota,Allion,2011,Automatic,Saloon,"Petrol, CNG, Octane",1500,66565,1800000
+Toyota Premio F 2011,Toyota,Premio,2011,Automatic,Saloon,"Petrol, CNG, Octane",1500,64000,1970000
+Toyota Allion A15 2012,Toyota,Allion,2012,Automatic,Saloon,"Petrol, CNG, Octane",1500,52000,1890000
+Toyota Axio X NEW EDITION 2012,Toyota,Axio,2012,Automatic,Saloon,"Petrol, CNG, Octane",1500,62000,1320000
+Toyota Premio G Superior 2012,Toyota,Premio,2012,Automatic,Saloon,"Petrol, CNG, Octane",1500,27000,2050000
+Toyota Premio G SUPERIOR PACKAGE 2013,Toyota,Premio,2013,Automatic,Saloon,"Petrol, CNG, Octane",1500,59698,2150000
+Toyota Premio G Superior 2014,Toyota,Premio,2014,Automatic,Saloon,"Petrol, CNG, Octane",1500,50000,2280000
+Toyota Hilux Surf 2001,Toyota,Hilux,2001,Automatic,SUV / 4x4,"Petrol, CNG, Octane",2700,89260,1500000
+Toyota Kluger jeep 2002,Toyota,Kluger,2002,Automatic,SUV / 4x4,"Petrol, CNG, Octane",2400,62000,1450000
+Toyota RAV4 L PACKAGE 1.8 2005,Toyota,RAV4,2005,Automatic,SUV / 4x4,"Petrol, CNG, Octane",1800,74174,1350000
+Toyota Prado LOCATION DHAKA 2006,Toyota,Prado,2006,Automatic,SUV / 4x4,"Petrol, CNG, Octane",2700,74567,3650000
+Toyota Rush G EDITION PACKAGE 2008,Toyota,Rush,2008,Automatic,SUV / 4x4,"Petrol, CNG, Octane",1500,54146,1050000
+Toyota Hiace SUP. GL DUEL AC 2015,Toyota,Hiace,2015,Automatic,MPV,"Petrol, CNG, Octane, LPG",2000,41233,2800000
+Honda Grace DX Hybrid 2016,Honda,Grace,2016,Automatic,Saloon,"Petrol, Hybrid",1500,28907,1650000
+Toyota Fielder G 2016,Toyota,Fielder,2016,Automatic,Estate,"Petrol, Hybrid, Octane",1500,33250,1800000
+Toyota Fielder X 2016,Toyota,Fielder,2016,Automatic,Estate,"Petrol, Hybrid, Octane",1500,36520,1700000
+Toyota Aqua X urban 2015,Toyota,Aqua,2015,Automatic,Hatchback,"Petrol, Hybrid, Octane",1500,66000,1480000
+Toyota Aqua S Purple Ready stock 2015,Toyota,Aqua,2015,Automatic,Hatchback,"Petrol, Hybrid, Octane",1500,32510,1400000
+Toyota Aqua S Push Start 2015,Toyota,Aqua,2015,Automatic,Hatchback,"Petrol, Hybrid, Octane",1500,65222,1450000
+Toyota Aqua S package 2016,Toyota,Aqua,2016,Automatic,Hatchback,"Petrol, Hybrid, Octane",1500,32190,1390000
+Honda Fit L edition 2016,Honda,Fit,2016,Automatic,Hatchback,"Petrol, Hybrid, Octane",1500,34790,1490000
+Toyota C-HR G Led 2017,Toyota,C-HR,2017,Automatic,Hatchback,"Petrol, Hybrid, Octane",1800,21963,3150000
+Toyota C-HR G package 2017,Toyota,C-HR,2017,Automatic,Hatchback,"Petrol, Hybrid, Octane",1800,15038,3050000
+Toyota C-HR G package 2017,Toyota,C-HR,2017,Automatic,Hatchback,"Petrol, Hybrid, Octane",1800,21683,3050000
+Toyota Noah hybrid 2015,Toyota,Noah,2015,Automatic,MPV,"Petrol, Hybrid, Octane",1800,34420,2450000
+Toyota Noah X PKG 2015,Toyota,Noah,2015,Automatic,MPV,"Petrol, Hybrid, Octane",1800,32510,2400000
+"Toyota Noah GI PREMIUM PKG, LED 2017",Toyota,Noah,2017,Automatic,MPV,"Petrol, Hybrid, Octane",2000,26000,3695000
+"Toyota Noah GI PREMIUM PKG, LED 2017",Toyota,Noah,2017,Automatic,MPV,"Petrol, Hybrid, Octane",2000,44000,4040000
+Toyota Axio Hybride 2014,Toyota,Axio,2014,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,32638,1480000
+Toyota Axio X Silver Ready stock 2015,Toyota,Axio,2015,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,46332,1560000
+Toyota Fielder X NEW SHAPE Hybrid 2015,Toyota,Fielder,2015,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,94000,1719996
+Toyota Fielder WXB Hybrid 2015,Toyota,Fielder,2015,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,35420,1900000
+Honda Grace LX 2015,Honda,Grace,2015,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,25197,1750000
+Toyota Axio X NEW SHAPE Hybrid 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,56000,1800000
+Toyota Axio X NEW SHAPE Hybrid 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,54946,1840000
+Toyota Axio X NEW SHAPE Hybrid 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,32000,1870000
+Toyota Axio X NEW SHAPE Hybrid 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,35000,1865000
+Toyota Axio X 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,28450,1800000
+Toyota Axio HV Safety Sense 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,56200,1880000
+Toyota Axio HYBRID 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,69960,1960000
+Toyota Axio HYBRID 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,20800,1750000
+Toyota Axio HYBRID X 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,24286,1900000
+Toyota Axio HYBRID X 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,40943,1900000
+Honda Grace HV LX GREY 2016,Honda,Grace,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,58500,2180000
+Toyota Prius S package 2016,Toyota,Prius,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1800,26450,2250000
+Toyota Prius S touring package 2016,Toyota,Prius,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1800,21065,2499000
+Toyota Prius S TOURING SEL 2016,Toyota,Prius,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1800,54500,2580000
+Toyota Sienta Hybrid G 2016,Toyota,Sienta,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,34126,2130000
+Nissan X-Trail HV Sunroof 2016,Nissan,X-Trail,2016,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,90700,3700000
+Toyota Premio FL LED 2017,Toyota,Premio,2017,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,52552,2780000
+Toyota Premio FL NEW SHAPEPOINT3-5 2018,Toyota,Premio,2018,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,4839,3600000
+Toyota Premio F EX NEW SH POINT4-5 2019,Toyota,Premio,2019,Automatic,Saloon,"Petrol, Hybrid, Octane",1500,18452,3710000
+Honda Vezel RS SENSING PKG 2016,Honda,Vezel,2016,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",1500,50000,2950000
+Nissan X-Trail EMERGENCY B POINT4-5 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,38855,3665000
+Nissan X-Trail EMERGENCY BRAKE PKG 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,42000,3600000
+Nissan X-Trail EMERGENCY BRAKE PKG 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,53000,3620000
+Nissan X-Trail EMERGENCY BRAKE PKG 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,62000,3590000
+Nissan X-Trail MOD PREMIERPOINT4-5 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,65380,3770000
+Nissan X-Trail EBP Sunroof 2016,Nissan,X-Trail,2016,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,90100,3740000
+Toyota C-HR G LED 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",1800,34917,3290000
+Toyota C-HR G LED HYBRID OFFER 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",1800,18225,3100000
+Toyota C-HR G LED 2 TONE 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",1800,28900,3290000
+Toyota C-HR G LED MODELISTA 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",1800,62370,3390000
+Toyota C-HR HV G LED 2017,Toyota,C-HR,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",1800,73500,3200000
+Toyota Harrier PROGRESS-METAL 2017,Toyota,Harrier,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2500,46611,6950000
+Nissan X-Trail 4WD EBP Sunroof 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,34600,4800000
+Nissan X-Trail EBP 2WD PRO PILOT 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,71664,4080000
+Nissan X-Trail EBP 360 PRO PILOT 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,54667,4320000
+Nissan X-Trail EBP 360 PRO PILOT 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,55770,4360000
+Nissan X-Trail EBP 360CAM PRO PILOT 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,58500,4280000
+Nissan X-Trail EXtremer Sunroof 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,26800,4900000
+Nissan X-Trail HV 360CAM PRO PILOT 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,71500,3990000
+Nissan X-Trail HV 4WD 360 PRO PILOT 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,48419,4180000
+Toyota C-HR G LED Edition 2018,Toyota,C-HR,2018,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",1800,28970,3348000
+Honda Vezel z- HYBRID 2018,Honda,Vezel,2018,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",1500,33142,3250000
+Nissan X-Trail HV 4WD 360CAM 2018,Nissan,X-Trail,2018,Automatic,SUV / 4x4,"Petrol, Hybrid, Octane",2000,20100,4520000
+Toyota Prius Hybrid 2016,Toyota,Prius,2016,Automatic,Saloon,"Petrol, Hybrid, Octane, LPG",1800,21549,2350000
+Toyota Corolla AE110 XE Saloon LPG 1996,Toyota,Corolla,1996,Automatic,Saloon,"Petrol, LPG",1500,89000,380000
+Land Rover Discovery EUROPEAN BEAUTY 2017,Land Rover,Discovery,2017,Automatic,Convertible,"Petrol, Octane",2000,12000,7500000
+Toyota Rush Fresh Condition 2007,Toyota,Rush,2007,Automatic,Hatchback,"Petrol, Octane",1500,90000,1180000
+Toyota VITZ 2008,Toyota,Other Model,2008,Automatic,Hatchback,"Petrol, Octane",1000,70000,850000
+Toyota Noah X SMART 2011,Toyota,Noah,2011,Automatic,MPV,"Petrol, Octane",2000,52110,2180000
+Toyota Hiace SUPER GLTRH200KEY ST 2015,Toyota,Hiace,2015,Automatic,MPV,"Petrol, Octane",2000,67000,2980000
+Toyota Hiace Ambulance 2015,Toyota,Hiace,2015,Automatic,MPV,"Petrol, Octane",2000,39467,1390000
+Toyota Hiace [ GL DUAL AC ] 2015,Toyota,Hiace,2015,Automatic,MPV,"Petrol, Octane",2000,43675,2250000
+Toyota Noah X hybrid 2015,Toyota,Noah,2015,Automatic,MPV,"Petrol, Octane",1800,35854,2400000
+Toyota Noah X NON HYBRID READY 2015,Toyota,Noah,2015,Automatic,MPV,"Petrol, Octane",2000,45310,2950000
+Toyota TownAce Ambulance 2015,Toyota,TownAce,2015,Automatic,MPV,"Petrol, Octane",1500,27420,930000
+Toyota Hiace DX AMBULANCE TRH2000 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,65000,1490000
+Toyota Hiace DX GL TRH200 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,87000,2320000
+Toyota Hiace SUPER GL PUSH POINT4 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,48000,3100000
+Toyota Hiace SUPER GL TWO DOOR PW 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,72330,3280000
+Toyota Hiace SUPER GL 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,31457,2900000
+Toyota Hiace DX-PW SILVER 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,88515,2350000
+Toyota Hiace [ Super GL DUAL AC ] 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,42185,2850000
+Toyota Hiace [GL DUAL A/C .TRH.] 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,39718,2300000
+Toyota Hiace GL DUAL A/C .TRH. 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,46810,2300000
+Toyota Hiace Super GL DUAL AC TRH 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,39807,2850000
+Toyota Hiace Super GL DUAL AC TRH 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,43108,2950000
+Toyota Hiace SUPER GL DUAL AC.... 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,43107,2950000
+Toyota Hiace GL DUAL AC 2016,Toyota,Hiace,2016,Automatic,MPV,"Petrol, Octane",2000,65214,2280000
+Toyota Noah G PKG PUSH HYBRID 2016,Toyota,Noah,2016,Automatic,MPV,"Petrol, Octane",2000,77000,3000000
+Toyota Noah HYBRID 2016,Toyota,Noah,2016,Automatic,MPV,"Petrol, Octane",1800,35874,2600000
+Toyota Noah HYBRID 2016,Toyota,Noah,2016,Automatic,MPV,"Petrol, Octane",1800,35210,2500000
+Toyota Noah X Delight Plus Ed. 2016,Toyota,Noah,2016,Automatic,MPV,"Petrol, Octane",2000,88700,3340000
+Toyota Hiace SUPER GL TWO DOOR PW 2017,Toyota,Hiace,2017,Automatic,MPV,"Petrol, Octane",2000,90194,3379999
+Toyota Hiace SUPER GL TWO DOOR PW 2017,Toyota,Hiace,2017,Automatic,MPV,"Petrol, Octane",2000,64820,3390000
+Toyota Fielder 2014,Toyota,Fielder,2014,Automatic,null,"Petrol, Octane",1500,34544,1499000
+Toyota Premio 2016,Toyota,Premio,2016,Automatic,null,"Petrol, Octane",1500,25421,3250000
+Toyota Allion G-EDITION SOFT TACH 2002,Toyota,Allion,2002,Automatic,Saloon,"Petrol, Octane",1500,85271,1065000
+Toyota Corolla New Shape 2004,Toyota,Corolla,2004,Automatic,Saloon,"Petrol, Octane",1500,79500,940000
+Nissan Cefiro Used 2006,Nissan,Cefiro,2006,Automatic,Saloon,"Petrol, Octane",2000,2400,1050000
+Toyota Allion TRD edition 2011,Toyota,Allion,2011,Automatic,Saloon,"Petrol, Octane",1500,35689,1800000
+Mercedes-Benz E 250 CGI AMG PENAROMIC 2011,Mercedes-Benz,E 250,2011,Automatic,Saloon,"Petrol, Octane",1800,29000,4950000
+Toyota Axio G PUSH LTD EDITION 2012,Toyota,Axio,2012,Automatic,Saloon,"Petrol, Octane",1500,56000,1420000
+Toyota Axio X-HID 2012,Toyota,Axio,2012,Automatic,Saloon,"Petrol, Octane",150,55000,1375000
+Toyota Premio G Superior 2012,Toyota,Premio,2012,Automatic,Saloon,"Petrol, Octane",1500,60000,2090000
+Toyota Axio oction 2014,Toyota,Axio,2014,Automatic,Saloon,"Petrol, Octane",1500,36000,1498000
+Toyota Fielder X NON HYBRID 2014,Toyota,Fielder,2014,Automatic,Saloon,"Petrol, Octane",1500,45210,1549000
+Toyota Premio S GRADE F-EX PKG 2014,Toyota,Premio,2014,Automatic,Saloon,"Petrol, Octane",1500,32131,2280000
+Toyota Premio F 2014,Toyota,Premio,2014,Automatic,Saloon,"Petrol, Octane",1500,23000,2370000
+Toyota Probox DX 2014,Toyota,Probox,2014,Automatic,Saloon,"Petrol, Octane",1500,36420,1250000
+Toyota Allion A-15 Old Shape 2015,Toyota,Allion,2015,Automatic,Saloon,"Petrol, Octane",1500,46321,2340000
+Toyota Axio g push start 2015,Toyota,Axio,2015,Automatic,Saloon,"Petrol, Octane",1500,55000,1850000
+Toyota Axio NON HYBRID 2015,Toyota,Axio,2015,Automatic,Saloon,"Petrol, Octane",1500,28420,1700000
+Toyota Axio G NON HYBRID OFFER 2015,Toyota,Axio,2015,Automatic,Saloon,"Petrol, Octane",1500,26014,1900000
+Toyota Premio EX PACKAGE G SUPER 2015,Toyota,Premio,2015,Automatic,Saloon,"Petrol, Octane",1500,49697,2370000
+Jaguar XJ SUNROOF XJL BIGGEST 2015,Jaguar,XJ,2015,Automatic,Saloon,"Petrol, Octane",2000,13500,9900000
+Toyota Allion A15 NEWSHAP POINT3-5 2016,Toyota,Allion,2016,Automatic,Saloon,"Petrol, Octane",1500,19000,2630000
+Toyota Allion G PLUS 2016,Toyota,Allion,2016,Automatic,Saloon,"Petrol, Octane",1500,26587,2900000
+Toyota Allion G LED 2016,Toyota,Allion,2016,Automatic,Saloon,"Petrol, Octane",1500,28136,3150000
+Toyota Allion G PLUS LED Pearl 2016,Toyota,Allion,2016,Automatic,Saloon,"Petrol, Octane",1500,8973,2980000
+Mazda Axela Non Hybrid S 2016,Mazda,Axela,2016,Automatic,Saloon,"Petrol, Octane",1500,40000,2250000
+Toyota Axio HYBRID 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Octane",1500,33510,1650000
+Toyota Axio [ NON HYBRID X ] ... 2016,Toyota,Axio,2016,Automatic,Saloon,"Petrol, Octane",1500,34560,1700000
+Toyota Premio F EX NEW SH POINT-4 2016,Toyota,Premio,2016,Automatic,Saloon,"Petrol, Octane",1500,6806,3185000
+Toyota Premio FL .... 2016,Toyota,Premio,2016,Automatic,Saloon,"Petrol, Octane",1500,34560,2800000
+Toyota Premio FL .... 2016,Toyota,Premio,2016,Automatic,Saloon,"Petrol, Octane",1500,38450,2750000
+Toyota Premio FL LED PKG 2016,Toyota,Premio,2016,Automatic,Saloon,"Petrol, Octane",1500,12900,3280000
+Toyota Premio FL Package 2016,Toyota,Premio,2016,Automatic,Saloon,"Petrol, Octane",1500,27189,2850000
+Toyota Allion G LED PKG NEW SHAPE 2017,Toyota,Allion,2017,Automatic,Saloon,"Petrol, Octane",1500,34713,3040000
+Toyota Allion A15 PKG WHITE 2017,Toyota,Allion,2017,Automatic,Saloon,"Petrol, Octane",1500,20000,2690000
+Toyota Allion G Led 2017,Toyota,Allion,2017,Automatic,Saloon,"Petrol, Octane",1500,32891,3280000
+Toyota Allion G LED 2017,Toyota,Allion,2017,Automatic,Saloon,"Petrol, Octane",1500,60000,3250000
+Toyota Allion A15 LED EDITION 2017,Toyota,Allion,2017,Automatic,Saloon,"Petrol, Octane",1500,3078,2800000
+Toyota Allion G LTD BEIGE INT 2017,Toyota,Allion,2017,Automatic,Saloon,"Petrol, Octane",1500,7100,2940000
+Toyota Allion G package 2017,Toyota,Allion,2017,Automatic,Saloon,"Petrol, Octane",1500,27165,2850000
+Toyota Premio FEX G SUPERIOR 2017,Toyota,Premio,2017,Automatic,Saloon,"Petrol, Octane",1500,28987,3080000
+Toyota Premio S GRADE FEX PACKAGE 2017,Toyota,Premio,2017,Automatic,Saloon,"Petrol, Octane",1500,24000,3100000
+Toyota Premio F EX NEWSHAPPOINT4-5 2017,Toyota,Premio,2017,Automatic,Saloon,"Petrol, Octane",1500,99140,3285000
+Toyota Premio F NEW SHAPEPOINT-4 2017,Toyota,Premio,2017,Automatic,Saloon,"Petrol, Octane",1500,25204,2795000
+Toyota Premio FL PACKAGE READY 2017,Toyota,Premio,2017,Automatic,Saloon,"Petrol, Octane",1500,10890,2980000
+Toyota Premio F-EX 2017,Toyota,Premio,2017,Automatic,Saloon,"Petrol, Octane",1500,35210,3250000
+Toyota Premio FL SMART START 2017,Toyota,Premio,2017,Automatic,Saloon,"Petrol, Octane",1500,24000,3090000
+Toyota Premio F EX PKG LED 2017,Toyota,Premio,2017,Automatic,Saloon,"Petrol, Octane",1500,66100,3320000
+Toyota Allion G LED PKG NEW SHAPE 2018,Toyota,Allion,2018,Automatic,Saloon,"Petrol, Octane",1500,20000,3100000
+Toyota Allion GPKG NEW SHAPE PT4-5 2018,Toyota,Allion,2018,Automatic,Saloon,"Petrol, Octane",1500,40300,2980000
+Toyota Allion G PACKAGE BLACK 2018,Toyota,Allion,2018,Automatic,Saloon,"Petrol, Octane",1500,32000,3120000
+Toyota Allion G SMART START WINE 2018,Toyota,Allion,2018,Automatic,Saloon,"Petrol, Octane",1500,21000,3210000
+Toyota Allion G LTD W/St 2018,Toyota,Allion,2018,Automatic,Saloon,"Petrol, Octane",1500,37873,2970000
+Toyota Harrier PROGRESS NON HYBRID 2018,Toyota,Harrier,2018,Automatic,Saloon,"Petrol, Octane",2000,11000,8280000
+Toyota Prado TXL AUTO FOOT STEP 2018,Toyota,Prado,2018,Automatic,Saloon,"Petrol, Octane",2700,43000,13650000
+"Toyota Premio F-EX PKG, RED WINE 2018",Toyota,Premio,2018,Automatic,Saloon,"Petrol, Octane",1500,43000,3650000
+Toyota Premio F- EX Mica Blue 2018,Toyota,Premio,2018,Automatic,Saloon,"Petrol, Octane",1500,31542,3650000
+Toyota Premio F-EX READY STOCK 2018,Toyota,Premio,2018,Automatic,Saloon,"Petrol, Octane",1500,39510,3580000
+Toyota Premio F EX PKG LED 2018,Toyota,Premio,2018,Automatic,Saloon,"Petrol, Octane",1500,10370,3630000
+Toyota Allion G PLUS Brand New 2019,Toyota,Allion,2019,Automatic,Saloon,"Petrol, Octane",1500,5000,3575000
+Toyota Premio FEX 2019,Toyota,Premio,2019,Automatic,Saloon,"Petrol, Octane",1500,11295,3720000
+Toyota Premio FEX PACKAGE PEARL 2019,Toyota,Premio,2019,Automatic,Saloon,"Petrol, Octane",1500,5000,3725000
+Toyota Hilux Surf Cary Boy 1995,Toyota,Hilux,1995,Automatic,SUV / 4x4,"Petrol, Octane",2000,105000,900000
+Lexus Harrier Jeep 1999,Lexus,Harrier,1999,Automatic,SUV / 4x4,"Petrol, Octane",2000,79000,980000
+Toyota Harrier lexus 2002,Toyota,Harrier,2002,Automatic,SUV / 4x4,"Petrol, Octane",2400,69000,1750000
+Toyota Prado SUNROOF 8SEAT OIL 2003,Toyota,Prado,2003,Automatic,SUV / 4x4,"Petrol, Octane",2700,56980,2950000
+Toyota RAV4 Used 2004,Toyota,RAV4,2004,Automatic,SUV / 4x4,"Petrol, Octane",1800,65000,1550000
+Toyota RAV4 very nice condition 2005,Toyota,RAV4,2005,Automatic,SUV / 4x4,"Petrol, Octane",2400,37318,1750000
+Toyota RAV4 . 2005,Toyota,RAV4,2005,Automatic,SUV / 4x4,"Petrol, Octane",2400,86000,1590000
+Lexus Harrier 3part SUNROOF 2007,Lexus,Harrier,2007,Automatic,SUV / 4x4,"Petrol, Octane",2400,62000,2400000
+Hyundai Tucson MOONROOF LEATHER 2010,Hyundai,Tucson,2010,Automatic,SUV / 4x4,"Petrol, Octane",2000,46569,1600000
+Toyota Prado BEIGE INTERIOR LTD 2011,Toyota,Prado,2011,Automatic,SUV / 4x4,"Petrol, Octane",2700,26369,6650000
+Audi Q5 Quottro 2011,Audi,Q5,2011,Automatic,SUV / 4x4,"Petrol, Octane",2000,21245,5500000
+Hyundai Tucson GLASS SUNROOF 2011,Hyundai,Tucson,2011,Automatic,SUV / 4x4,"Petrol, Octane",2000,29698,1500000
+Honda CR-V Over Fresh 2012,Honda,CR-V,2012,Automatic,SUV / 4x4,"Petrol, Octane",2000,44428,2950000
+Toyota Harrier PREMIUM PACKAGE 2013,Toyota,Harrier,2013,Automatic,SUV / 4x4,"Petrol, Octane",2000,28456,4500000
+Toyota Harrier Bluish Green Colour 2013,Toyota,Harrier,2013,Automatic,SUV / 4x4,"Petrol, Octane",2000,44231,4100000
+Toyota Prado 2018 FACELIFTED ☀ 2014,Toyota,Prado,2014,Automatic,SUV / 4x4,"Petrol, Octane",2700,24565,7350000
+Honda Vezel S.This Attractive 2014,Honda,Vezel,2014,Automatic,SUV / 4x4,"Petrol, Octane",1500,22908,2250000
+Toyota Harrier Advance Premium 2015,Toyota,Harrier,2015,Automatic,SUV / 4x4,"Petrol, Octane",2000,36058,5500000
+Toyota Prado Auto wing foot Step 2015,Toyota,Prado,2015,Automatic,SUV / 4x4,"Petrol, Octane",2700,17968,9500000
+Toyota Prado TX Land Cruiser 2015,Toyota,Prado,2015,Automatic,SUV / 4x4,"Petrol, Octane",2700,33016,8950000
+Toyota Prado TX Land Cruiser 2015,Toyota,Prado,2015,Automatic,SUV / 4x4,"Petrol, Octane",2700,39056,9000000
+Toyota Prado LIMITED TX-L EDITION 2015,Toyota,Prado,2015,Automatic,SUV / 4x4,"Petrol, Octane",2700,29541,9200000
+Toyota Harrier ADV PREMIUM NON HV 2016,Toyota,Harrier,2016,Automatic,SUV / 4x4,"Petrol, Octane",2000,22300,6599000
+Toyota Harrier ADV PREMIUM NON HV 2016,Toyota,Harrier,2016,Automatic,SUV / 4x4,"Petrol, Octane",2490,22596,6649000
+Toyota Hiace [ GL DUAL AC TRH ] . 2016,Toyota,Hiace,2016,Automatic,SUV / 4x4,"Petrol, Octane",1500,44560,2300000
+Toyota Hiace GL DUAL AC TRH ... 2016,Toyota,Hiace,2016,Automatic,SUV / 4x4,"Petrol, Octane",2000,34560,2300000
+Toyota Hiace SUPER GL . DUAL AC 2016,Toyota,Hiace,2016,Automatic,SUV / 4x4,"Petrol, Octane",2000,34560,2900000
+Toyota Hiace SUPER GL DUAL .A/C.. 2016,Toyota,Hiace,2016,Automatic,SUV / 4x4,"Petrol, Octane",2000,35640,2850000
+Range Rover CityRover R dynamic HSE.2.0 2017,Range Rover,CityRover,2017,Automatic,SUV / 4x4,"Petrol, Octane",2000,90000,7600000
+Nissan X-Trail 20.X 2017,Nissan,X-Trail,2017,Automatic,SUV / 4x4,"Petrol, Octane",2000,30214,4000000
+Toyota Harrier Progress 2018,Toyota,Harrier,2018,Automatic,SUV / 4x4,"Petrol, Octane",2500,38451,7850000
+Toyota Harrier PROGRESS-METAL BLACK 2018,Toyota,Harrier,2018,Automatic,SUV / 4x4,"Petrol, Octane",2000,44616,8350000
+Honda CR-V 7Seat 2020,Honda,CR-V,2020,Automatic,SUV / 4x4,"Petrol, Octane",1500,509,6200000
+Toyota Noah X G Package 2003,Toyota,Noah,2003,Automatic,MPV,"Petrol, Octane, LPG",2000,78990,999000
+Toyota Corolla X 2005,Toyota,Corolla,2005,Automatic,Saloon,"Petrol, Octane, LPG",1300,85000,850000
+Toyota Premio F 2013,Toyota,Premio,2013,Automatic,Saloon,"Petrol, Octane, LPG",1500,59000,2180000
+Toyota Alphard 2006,Toyota,Alphard,2008,Automatic,MPV,"Petrol, Octane, Other fuel type",2362,206693,3000000
+Suzuki Swift RS_PKG_BLACK 2014,Suzuki,Swift,2014,Manual,Hatchback,"Petrol, Other fuel type",1200,67000,1500000
+Suzuki Swift RS_PKG_GRAY 2014,Suzuki,Swift,2014,Manual,Hatchback,"Petrol, Other fuel type",1200,129000,1500000
